@@ -4,7 +4,7 @@ FILES_BASE_PATH = 'data/processed/'
 
 ws_file = 'ws_countries_info_cleaned.csv'
 countries_db_file = 'db_countries_info_cleaned.csv'
-api_file = 'api_carrer_info_table_cleaned.csv'
+api_file = 'api_carrer_info_cleaned.csv'
 carrers_db_file = 'db_carrer_info_cleaned.csv'
 personal_db_file = 'db_personal_info_cleaned.csv'
 
@@ -70,15 +70,20 @@ def merge_jobs(base, api):
 
 # Countries Metafunction:
 def full_jobs():
+
     base_df = create_df_from_csv_file(carrers_db_file)
     api_df = create_df_from_csv_file(api_file)
     df = merge_jobs(base_df,api_df)
+    print('full job info merged')
     return df
 
 
 #########################################  MERGING RESULTING DATAFRAMES   ##############################################
 
 def create_full_raw_table():
+
+    print(f'mergin all cleaned info in one single created')
+
 
     personal_df = create_df_from_csv_file(personal_db_file)
     jobs_df = full_jobs()
@@ -88,6 +93,10 @@ def create_full_raw_table():
 
     name= FILES_BASE_PATH + '01_FULL_raw_table.csv'
     full_df.to_csv(name,index=False)
+
+    print('full raw table succesfully created ')
+
+
     return full_df
 
 
