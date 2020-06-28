@@ -1,4 +1,8 @@
 import pandas as pd
+def result_to_csv (df,name):
+    FILES_BASE_PATH = 'data/results/'
+    file_name = FILES_BASE_PATH + name
+    df.to_csv(file_name, index=False)
 
 #########################################   Challenge 1: Basic Table    ################################################
 
@@ -39,11 +43,37 @@ def pretty_df_percentage(df):
 def main_table_ch1 (raw_df,country='all'):
     table = make_final_base_table(raw_df,country)
     final_table = pretty_df_percentage(table)
-
-    FILES_BASE_PATH = 'data/results/'
-    name = FILES_BASE_PATH + 'challenge1.csv'
-    final_table.to_csv(name, index=False)
-
+    name = 'result_challenge1.csv'
+    result_to_csv(final_table,name)
     return final_table
 
+########################################   Bonus 1: Pros and Cons   ################################################
+
+def def_position(x):
+    if x == 'I would probably vote for it' or x == 'I would vote for it':
+        return 'In Favor'
+    elif x == 'I would not vote':
+        return 'Neutral'
+    else:
+        return 'Against'
+
+def count_arguments (x):
+    if x == 'None of the above':
+        return 0
+    else:
+        return (len(x.split("|")))
+
+def bonus_1_function(df):
+    #df = pd.read_csv(path)
+    df['Position'] = df['vote'].apply(lambda x: def_position(x))
+    df['Number of Pro Arguments'] = df['arguments_for'].apply(lambda x: count_arguments(x))
+    df['Number of Cons Arguments'] = df['arguments_against'].apply(lambda x: count_arguments(x))
+    resumed_df = df[['Position', 'Number of Pro Arguments', 'Number of Cons Arguments']].groupby('Position').sum()
+    resumed_df = resumed_df.reset_index().loc[[1, 0]]
+    name = 'result_bonus1_procons_args.csv'
+    result_to_csv(resumed_df, name)
+
+
+
+########################################   Bonus 2: Pros and Cons   ################################################
 

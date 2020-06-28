@@ -262,12 +262,13 @@ def extract_carrer_info(conection):
     export_df_to_processed(df,name_table_df)
     print('carrer info file created')
 
-    '''    
+
     print('extracting jobs code from API')
     jobs_df = api_requests(df)
     name_api_df = 'api_carrer_info'
     export_df_to_processed(jobs_df,name_api_df)
     print('api jobs code file created')
-    '''
+    return jobs_df
+
 
 
