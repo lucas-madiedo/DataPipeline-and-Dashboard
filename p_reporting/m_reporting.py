@@ -1,9 +1,6 @@
 import pandas as pd
 
 #########################################   Challenge 1: Basic Table    ################################################
-path='data/processed/01_FULL_raw_table.csv'
-raw_df = pd.read_csv(path)
-
 
 def make_final_base_table(raw_df, country):
     # creamos un nuevo df con las columnas necesarias más una
@@ -22,7 +19,7 @@ def make_final_base_table(raw_df, country):
 
     # Si no se mete valor, devuelve el df tal cual.
     if country == None:
-        df['Percentage'] = df['Quantity'] / df['Country'].count() * 100
+        df['Percentage'] = df['Quantity'] / df['Quantity'].sum() * 100
         df = df.sort_values(by=['Percentage'], ascending=False)
         return df
 
@@ -30,7 +27,7 @@ def make_final_base_table(raw_df, country):
     else:
         filter_country = df['Country'] == country
         df = df[filter_country]
-        df['Percentage'] = df['Quantity'] / df['Country'].count() * 100
+        df['Percentage'] = df['Quantity'] / df['Quantity'].sum() * 100
         df = df.sort_values(by=['Percentage'], ascending=False)
         return df
 
@@ -39,9 +36,8 @@ def pretty_df_percentage(df):
     df['Percentage'] = df['Percentage'].round(2).apply(lambda x : str(x)+'%')
     return df
 
-def main_table_ch1 (raw_df,pais='all'):
-    pais = 'France'
-    table = make_final_base_table(raw_df,pais)
+def main_table_ch1 (raw_df,country='all'):
+    table = make_final_base_table(raw_df,country)
     final_table = pretty_df_percentage(table)
 
     FILES_BASE_PATH = 'data/results/'

@@ -227,11 +227,14 @@ def api_info (job_code_list):
 
     base_url =  'http://api.dataatwork.org/v1/jobs/'
     json = []
+    i = 0
     for job_cod in job_code_list:
+        i += 1
         url = base_url+job_cod
         response = requests.get(url)
         job_info = response.json()
         json.append(job_info)
+        print(f'jobs extracted from API: {i}/{len(job_code_list)}')
     return json
 
 def create_df(json):
@@ -259,11 +262,12 @@ def extract_carrer_info(conection):
     export_df_to_processed(df,name_table_df)
     print('carrer info file created')
 
-    '''   
+    '''    
     print('extracting jobs code from API')
     jobs_df = api_requests(df)
     name_api_df = 'api_carrer_info'
     export_df_to_processed(jobs_df,name_api_df)
     print('api jobs code file created')
     '''
+
 
