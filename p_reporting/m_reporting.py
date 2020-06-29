@@ -1,4 +1,6 @@
 import pandas as pd
+import requests
+
 def result_to_csv (df,name):
     FILES_BASE_PATH = 'data/results/'
     file_name = FILES_BASE_PATH + name
@@ -41,10 +43,12 @@ def pretty_df_percentage(df):
     return df
 
 def main_table_ch1 (raw_df,country='all'):
+    print('creating challenge 1 table')
     table = make_final_base_table(raw_df,country)
     final_table = pretty_df_percentage(table)
     name = 'result_challenge1.csv'
     result_to_csv(final_table,name)
+    print('challenge 1 table succesfully created')
     return final_table
 
 ########################################   Bonus 1: Pros and Cons   ################################################
@@ -64,7 +68,7 @@ def count_arguments (x):
         return (len(x.split("|")))
 
 def bonus_1_function(df):
-    #df = pd.read_csv(path)
+    print('creating table for bonus1 ')
     df['Position'] = df['vote'].apply(lambda x: def_position(x))
     df['Number of Pro Arguments'] = df['arguments_for'].apply(lambda x: count_arguments(x))
     df['Number of Cons Arguments'] = df['arguments_against'].apply(lambda x: count_arguments(x))
@@ -72,8 +76,98 @@ def bonus_1_function(df):
     resumed_df = resumed_df.reset_index().loc[[1, 0]]
     name = 'result_bonus1_procons_args.csv'
     result_to_csv(resumed_df, name)
+    print('bonus 1 succesfully created ')
 
 
 
-########################################   Bonus 2: Pros and Cons   ################################################
+########################################   Bonus 2: SKILLS FOR ED LEV   ################################################
 
+
+
+
+def make_sub_by_cat(full_raw_df, text):
+    ''' makes a list from a df wich is filtered by a given value'''
+
+    reduced_raw = full_raw_df[['uuid', 'education_level', 'job_code']]
+    reduced_raw = reduced_raw[reduced_raw['job_code'].notna()]
+    reduced_raw = reduced_raw[reduced_raw['education_level'].notna()]
+
+    filter_edu = reduced_raw['education_level'] == text
+    list_of_works = reduced_raw[filter_edu]['job_code'].to_list()
+
+    return list(set(list_of_works))
+
+
+def api_skill_json(list_of_jobs, text):
+    '''returns a json file with the api info for each value of a given job list'''
+
+    base_url = 'http://api.dataatwork.org/v1/jobs/'
+    append_url = '/related_skills'
+
+    json = []
+
+    for i, job_cod in enumerate(list_of_jobs):
+        i += 1
+        url = base_url + job_cod + append_url
+
+        response = requests.get(url)
+        job_info = response.json()
+        json.append(job_info)
+
+        print(f'{text.title()} category jobs examinated for skills: {i}/{len(list_of_jobs)}')
+
+    return json
+
+
+def create_list_skills_from_json(json):
+    '''from a json given returns a list of skills'''
+
+    list_of_skills = []
+    for i in range(len(json)):
+        try:
+            for e in range(10):
+                skill = json[i]['skills'][e]['skill_name']
+                list_of_skills.append(skill)
+
+        except:
+            pass
+
+    return list_of_skills
+
+def created_sorted_dictionary (list_of_skills):
+    '''from a list of skills, returns an ordered a dictionary where the key is the skill and the value the number
+    of times wich appeas in the list'''
+
+    base_dict = {i:list_of_skills.count(i) for i in list_of_skills}
+    ordered_dict = sorted(base_dict.items(), key=lambda x: x[1], reverse=True)
+    return ordered_dict
+
+
+def extract_top_skills(full_raw_df, text):
+    '''combines all the above functions and return a list of the top 10 skills for a given level of education'''
+
+    list_jobs_by_ed = make_sub_by_cat(full_raw_df, text)
+    json = api_skill_json(list_jobs_by_ed[:10], text)  # capar aquí con api_skill_json(list_jobs_by_ed[:X],text)
+    list_of_skills = create_list_skills_from_json(json)
+    top_10_skills = created_sorted_dictionary(list_of_skills)[:10]
+    lista = [f'{a[0].title()} ({a[1]})' for a in top_10_skills]
+
+    return lista
+
+
+def create_bonus2_df_and_csv(full_raw_df, options):
+    'makes a df and a csv file with all the info'
+
+    print('creating bonus2 table')
+    dictionary = {option: extract_top_skills(full_raw_df, option) for option in options}
+
+    df = pd.DataFrame()
+    df = pd.DataFrame(dictionary).T.reset_index()
+
+    df.columns = ['Education Level', '1st Skill', '2nd Skill', '3th Skill', '4th Skill', '5th Sikill',
+                  '6th Skill', '7th Skill', '8th Skill', '9th Skill', '10th Skill']
+
+    name = 'result_bonus2.csv'
+    result_to_csv(df, name)
+    print('bonus2 table created')
+    return df
