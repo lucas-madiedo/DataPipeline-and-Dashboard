@@ -1,8 +1,11 @@
 import argparse
 from p_acquisition import m_acquisition
-
 from p_wrangling import m_wrangling
 from p_reporting import m_reporting
+
+import subprocess
+
+
 
 API_URL = 'http://api.dataatwork.org/v1/jobs/'
 OPTIONS = ['high','medium','low','no']
@@ -25,10 +28,10 @@ def main(args):
     raw_df = m_wrangling.create_full_raw_table()
     m_reporting.main_table_ch1(raw_df,args.country)
     m_reporting.bonus_1_function(poll_df)
-    m_reporting.create_bonus2_df_and_csv(raw_df,OPTIONS)
+    #m_reporting.create_bonus2_df_and_csv(raw_df,OPTIONS)
 
     print('Pipeline is complete')
-
+    subprocess.run('ls')
 
 if __name__ == "__main__":
     arguments = argument_parser()

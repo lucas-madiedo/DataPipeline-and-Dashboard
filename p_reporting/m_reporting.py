@@ -114,7 +114,7 @@ def api_skill_json(list_of_jobs, text):
         job_info = response.json()
         json.append(job_info)
 
-        print(f'{text.title()} category jobs examinated for skills: {i}/{len(list_of_jobs)}')
+        print(f'{text.title()} category jobs examinated for skills: {i}/{len(list_of_jobs)}', end='\r')
 
     return json
 
