@@ -84,17 +84,16 @@ def age_group (df):
 #METAFUNCTION PERSONAL_INFO TABLE
 
 def clean_personal_db (conection):
-    print('Starting to clean Personal table')
+    print('\tCleaning Personal table')
     name = 'db_personal_info'
     df = extract_personal_table(conection)
-    print('Personal table imported')
     df = gender_column(df)
     df = children_column (df)
     df = age_column(df)
     df = age_group(df)
-    print('Personal table cleaned')
+    print('\tPersonal table cleaned')
     export_df_to_processed(df,name)
-    print('personal CSV created')
+    print('\tCSV file created\n')
 
 
 
@@ -131,15 +130,14 @@ def effect_column(df):
 #METAFUNCTION POLLL_INFO TABLE
 
 def clean_poll_df(conection):
-    print('Starting to clean poll table')
+    print('\tCleaning  Poll table')
     name = 'db_poll_info'
     df = extract_poll_table (conection)
-    print('Poll table imported')
     df = change_columns(df)
     df = effect_column (df)
-    print('Poll table cleaned')
+    print('\tPoll table cleaned')
     export_df_to_processed(df,name)
-    print('poll CSV created')
+    print('\tCSV file created\n')
     return df
 
 
@@ -186,27 +184,27 @@ def extract_country_info_table(conection):
 
 #web Sraping
 def extract_countries_web():
-    print('accesing countries website')
+    print('\tIniciating webscraping process')
     name = 'ws_countries_info'
     web_data = extract_info_web()
     country_dict = create_country_dict(web_data)
-    print('creating dataframe form website')
+    print('\tCreating dataframe from webscraping info')
     dataframe = create_countries_df(country_dict)
     export_df_to_processed(dataframe,name)
-    print(f'{name} created succesfully.')
+    print('\tCSV file created')
 
 #Extract BBDD
 def extract_countries_table(conection):
     name = 'db_countries_info'
     df = extract_country_info_table(conection)
     export_df_to_processed(df, name)
-    print('countries table extracted from db')
+    print('\tCountries table cleaned')
 
 #Agrupada
 def countries_info_extract(conection):
     extract_countries_web()
     extract_countries_table(conection)
-    print('Countries info succesfully extracted')
+    print('\tCountries info succesfully combinated\n')
 
 
 
@@ -256,19 +254,18 @@ def api_requests(df):
     return jobs_df
 
 def extract_carrer_info(conection):
-    print('extracting jobs info from DB')
+    print('\tCleaning JobInfo table')
     df = extract_carrers(conection)
     name_table_df = 'db_carrer_info'
     export_df_to_processed(df,name_table_df)
-    print('carrer info file created')
-
+    print('\tJobsInfo succesfully created')
+    print('\tMaking API request')
     '''
-    print('extracting jobs code from API')
     jobs_df = api_requests(df)
     name_api_df = 'api_carrer_info'
     export_df_to_processed(jobs_df,name_api_df)
-    print('api jobs code file created')
+    
     return jobs_df
     '''
-
+    print('\tCSV file created\n\n')
 

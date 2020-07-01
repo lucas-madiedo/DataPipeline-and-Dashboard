@@ -43,12 +43,12 @@ def pretty_df_percentage(df):
     return df
 
 def main_table_ch1 (raw_df,country='all'):
-    print('creating challenge 1 table')
+    print('\tCreating challenge 1 table')
     table = make_final_base_table(raw_df,country)
     final_table = pretty_df_percentage(table)
     name = 'result_challenge1.csv'
     result_to_csv(final_table,name)
-    print('challenge 1 table succesfully created')
+    print('\tChallenge 1 table succesfully created\n')
     return final_table
 
 ########################################   Bonus 1: Pros and Cons   ################################################
@@ -68,7 +68,8 @@ def count_arguments (x):
         return (len(x.split("|")))
 
 def bonus_1_function(df):
-    print('creating table for bonus1 ')
+    print('\tStarting Process for Bonus 1 ')
+    print('\tCreating Bonus 1 table')
     df['Position'] = df['vote'].apply(lambda x: def_position(x))
     df['Number of Pro Arguments'] = df['arguments_for'].apply(lambda x: count_arguments(x))
     df['Number of Cons Arguments'] = df['arguments_against'].apply(lambda x: count_arguments(x))
@@ -76,7 +77,7 @@ def bonus_1_function(df):
     resumed_df = resumed_df.reset_index().loc[[1, 0]]
     name = 'result_bonus1_procons_args.csv'
     result_to_csv(resumed_df, name)
-    print('bonus 1 succesfully created ')
+    print('\tBonus 1 table succesfully created\n')
 
 
 
@@ -147,7 +148,7 @@ def extract_top_skills(full_raw_df, text):
     '''combines all the above functions and return a list of the top 10 skills for a given level of education'''
 
     list_jobs_by_ed = make_sub_by_cat(full_raw_df, text)
-    json = api_skill_json(list_jobs_by_ed[:10], text)  # capar aquí con api_skill_json(list_jobs_by_ed[:X],text)
+    json = api_skill_json(list_jobs_by_ed[:10], text)  # capar aquí  (api_skill_json(list_jobs_by_ed[:X],text) )
     list_of_skills = create_list_skills_from_json(json)
     top_10_skills = created_sorted_dictionary(list_of_skills)[:10]
     lista = [f'{a[0].title()} ({a[1]})' for a in top_10_skills]
@@ -157,8 +158,11 @@ def extract_top_skills(full_raw_df, text):
 
 def create_bonus2_df_and_csv(full_raw_df, options):
     'makes a df and a csv file with all the info'
+    print('\tStarting Process for Bonus 2')
+    print('\tCreating Bonus 2 table')
 
-    print('creating bonus2 table')
+    # correr todo una vez y luego comentar todo este bloque.
+
     dictionary = {option: extract_top_skills(full_raw_df, option) for option in options}
 
     df = pd.DataFrame()
@@ -169,5 +173,8 @@ def create_bonus2_df_and_csv(full_raw_df, options):
 
     name = 'result_bonus2.csv'
     result_to_csv(df, name)
-    print('bonus2 table created')
+
+    # Fin del comentario.
+
+    print('\tBonus2 table succesfully created')
     return df

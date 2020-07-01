@@ -5,12 +5,12 @@ import pandas as pd
 
 #HEADER
 st.sidebar.title('MODULE ONE PORJECT: DASHBOARD')
+st.sidebar.subheader('Lucas Madiedo')
+st.sidebar.subheader(' ')
+
 
 #SELECCTION
 challenge = st.sidebar.selectbox('Select the exercise to display',['Exercise 1','Bonus 1', 'Bonus 2'])
-
-
-
 
 
 #CHALLENGE 1     #######################################################################################################
@@ -41,7 +41,7 @@ def filter_no_current (df):
     return df[filter_df]
 
 def select_job(df):
-    #incluir opción mostrar todos / todos menos no job / seleecionar uno : muestra cuadro
+
     list_of_jobs = list(df['Job Title'].unique())
     selected_job = st.sidebar.selectbox('select jobs to list', list_of_jobs)
     filter_df = df['Job Title'] == selected_job
@@ -101,7 +101,9 @@ bonus_1_against_args.columns = ['Argument','Number']
 
 
 
-
+# BONUS 2 ##############################################################################################################
+bonus_2_path = 'data/results/result_bonus2.csv'
+bonus_2_df = pd.read_csv(bonus_2_path)
 
 
 #    --------------------------------------------------------------------------------------------------------
@@ -126,17 +128,28 @@ if __name__ == '__main__':
         st.write('')
         st.write('')
         st.write('-------')
-        if st.button('Show Complete DF'):
-            st.dataframe(challenge_1_df)
 
-        if st.button('Show created DF'):
-            st.dataframe(table_1)
+        st.subheader('I want this Info!!')
+        mail_adress = st.text_input('', 'Write your email here')
+        st.write(' ')
+        st.write()
+        st.write()
+
+        if st.button('Send me all data frame'):
+            st.success('Todo el df enviado"!')
+
+            #st.dataframe(challenge_1_df)
+
+        if st.button('send me just my selection'):
+            st.success('Te hemos enviado tu selección!')
+            #st.dataframe(table_1)
 
 
     elif challenge == 'Bonus 1':
         st.title('BONUS 1 TABLE')
         st.table(bonus_1_df)
         st.write()
+        st.write('-------')
         st.write()
         st.subheader('PRO ARGUMENTS TABLE')
         st.table(bonus_1_pro_args)
@@ -147,6 +160,7 @@ if __name__ == '__main__':
 
     else:
         st.title('BONUS 2 TABLE')
+        st.table(bonus_2_df)
 
 
 

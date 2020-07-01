@@ -49,7 +49,7 @@ def full_countries_table():
     countries_df['rural'] = countries_df['rural'].astype('category')
     countries_df['country'] = countries_df['country'].astype('category')
     countries_df['country_code'] = countries_df['country_code'].astype('category')
-    print('countries info succesfully merged')
+    print('\tCountries info succesfully merged')
     return countries_df
 
 
@@ -74,7 +74,6 @@ def full_jobs():
     base_df = create_df_from_csv_file(carrers_db_file)
     api_df = create_df_from_csv_file(api_file)
     df = merge_jobs(base_df,api_df)
-    print('full job info merged')
     return df
 
 
@@ -82,7 +81,7 @@ def full_jobs():
 
 def create_full_raw_table():
 
-    print(f'mergin all cleaned info in one single created')
+    print(f'\tMerging all df in one single file')
 
 
     personal_df = create_df_from_csv_file(personal_db_file)
@@ -94,7 +93,7 @@ def create_full_raw_table():
     name= FILES_BASE_PATH + '01_FULL_raw_table.csv'
     full_df.to_csv(name,index=False)
 
-    print('full raw table succesfully created ')
+    print('\tCSV File created with all raw info\n\n')
 
 
     return full_df
@@ -131,7 +130,7 @@ def export_csv(df,name):
 
 #main:
 def create_bonus_poll_tables (df):
-    print('Creating extra bonus 1 tables')
+    print('\tCreating extra bonus 1 tables')
     pro_column = 'arguments_for'
     pro_table = count_arguments(df,pro_column)
     pro_name = 'arguments_pro'
@@ -141,5 +140,5 @@ def create_bonus_poll_tables (df):
     against_table = count_arguments(df,against_col)
     against_name = 'arguments_against'
     export_csv(against_table,against_name)
-    print('Bonus 1 extra tables created')
+    print('\tBonus 1 extra tables created\n')
 

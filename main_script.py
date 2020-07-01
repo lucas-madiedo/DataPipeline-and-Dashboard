@@ -3,9 +3,6 @@ from p_acquisition import m_acquisition
 from p_wrangling import m_wrangling
 from p_reporting import m_reporting
 
-import subprocess
-
-
 
 API_URL = 'http://api.dataatwork.org/v1/jobs/'
 OPTIONS = ['high','medium','low','no']
@@ -18,21 +15,27 @@ def argument_parser():
     return args
 
 def main(args):
-    print('starting Pipelie')
+    print('\nStarting Pipelie______________________\n')
     db_path = 'data/raw/raw_data_project_m1.db'
+
+    print('Starting Data Acquisition Process\n')
     conection = m_acquisition.create_sql_conexion(db_path)
     m_acquisition.clean_personal_db(conection)
     poll_df = m_acquisition.clean_poll_df(conection)
     job_code = m_acquisition.countries_info_extract(conection)
     m_acquisition.extract_carrer_info(conection)
+
+    print('Starting Data Wrangling Process\n')
     raw_df = m_wrangling.create_full_raw_table()
+
+    print('Starting Data Reporting Process\n')
     m_reporting.main_table_ch1(raw_df,args.country)
     m_reporting.bonus_1_function(poll_df)
     m_wrangling.create_bonus_poll_tables(poll_df)
-    #m_reporting.create_bonus2_df_and_csv(raw_df,OPTIONS)
+    m_reporting.create_bonus2_df_and_csv(raw_df,OPTIONS)
 
-    print('Pipeline is complete')
-    subprocess.run('ls')
+    print('\nPipeline is complete__________')
+
 
 if __name__ == "__main__":
     arguments = argument_parser()
