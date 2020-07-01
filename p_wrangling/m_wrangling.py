@@ -102,7 +102,44 @@ def create_full_raw_table():
 
 
 
+#### EXTRA FOR BONUS 1 ######
+
+bonus_1_path = 'data/results/result_bonus1_procons_args.csv'
+bonus_1_df = pd.read_csv(bonus_1_path)
 
 
 
+def count_arguments(df, column):
+    list_of_list = []
+    list_of_responses = df[column].to_list()
+    for response in list_of_responses:
+        sub = response.split(' | ')
+        list_of_list.append(sub)
+
+    flat_list = [item for sublist in list_of_list for item in sublist]
+    dic_count = {item: flat_list.count(item) for item in flat_list}
+
+    df = pd.Series(dic_count)
+    df = pd.DataFrame(df)
+    df = df.rename(columns={0: 'Sum'})
+    return df
+
+def export_csv(df,name):
+    export_processed_csv = f'data/processed/{name}_cleaned.csv'
+    df.to_csv(export_processed_csv)
+
+
+#main:
+def create_bonus_poll_tables (df):
+    print('Creating extra bonus 1 tables')
+    pro_column = 'arguments_for'
+    pro_table = count_arguments(df,pro_column)
+    pro_name = 'arguments_pro'
+    export_csv(pro_table,pro_name)
+
+    against_col = 'arguments_against'
+    against_table = count_arguments(df,against_col)
+    against_name = 'arguments_against'
+    export_csv(against_table,against_name)
+    print('Bonus 1 extra tables created')
 

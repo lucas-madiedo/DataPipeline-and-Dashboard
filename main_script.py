@@ -28,6 +28,7 @@ def main(args):
     raw_df = m_wrangling.create_full_raw_table()
     m_reporting.main_table_ch1(raw_df,args.country)
     m_reporting.bonus_1_function(poll_df)
+    m_wrangling.create_bonus_poll_tables(poll_df)
     #m_reporting.create_bonus2_df_and_csv(raw_df,OPTIONS)
 
     print('Pipeline is complete')

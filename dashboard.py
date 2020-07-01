@@ -2,15 +2,6 @@ import streamlit as st
 import pandas as pd
 
 
-challenge_1_path =  'data/results/result_challenge1.csv'
-challenge_1_df = pd.read_csv(challenge_1_path)
-
-bonus_1_path = 'data/results/result_bonus1_procons_args.csv'
-bonus_1_df = pd.read_csv(bonus_1_path)
-
-bonus_1_raw_path = 'data/processed/db_poll_info_cleaned.csv'
-bonus_1_raw_df = pd.read_csv(bonus_1_raw_path)
-
 
 #HEADER
 st.sidebar.title('MODULE ONE PORJECT: DASHBOARD')
@@ -19,7 +10,13 @@ st.sidebar.title('MODULE ONE PORJECT: DASHBOARD')
 challenge = st.sidebar.selectbox('Select the exercise to display',['Exercise 1','Bonus 1', 'Bonus 2'])
 
 
+
+
+
 #CHALLENGE 1     #######################################################################################################
+challenge_1_path =  'data/results/result_challenge1.csv'
+challenge_1_df = pd.read_csv(challenge_1_path)
+
 
 def number_of_jobs_to_show ():
     option = st.sidebar.radio('You can select one kind of data for Job Title column',('All Entries','All but No Full-Time Job','Select specific Job'))
@@ -89,39 +86,17 @@ def challenge1(df):
     return recalculated_df
 
 
-# BONUS 2    ###########################################################################################################
+# BONUS 1    ###########################################################################################################
+bonus_1_path = 'data/results/result_bonus1_procons_args.csv'
+bonus_1_df = pd.read_csv(bonus_1_path)
 
+bonus_pro_path = 'data/processed/arguments_pro_cleaned.csv'
+bonus_against_path = 'data/processed/arguments_against_cleaned.csv'
+bonus_1_pro_args = pd.read_csv(bonus_pro_path)
+bonus_1_against_args = pd.read_csv(bonus_against_path)
 
-
-
-
-def extract_values(df, column):
-    respuestas_2 = df[column].to_list()
-    result = list(
-        set([e.strip() if '|' in element else element for e in element.split('|') for element in respuestas_2]))
-    clean_df = pd.DataFrame(columns=result)
-
-    def change(x):
-        if x == False:
-            return 0
-        else:
-            return 1
-
-    for a in result:
-        clean_df[a] = poll_df[column].str.contains(a)
-        clean_df[a] = clean_df[a].apply(lambda x: change(x))
-
-    new_df = pd.DataFrame(clean_df.sum())
-    new_df = new_df.rename(columns={0: 'Suma'})
-    new_df['Porcentaje'] = (new_df['Suma'] / new_df['Suma'].sum()) * 100
-
-    return new_df
-
-
-st.table(bonus_1_df)
-#pros = extract_values(bonus_1_raw_df,'arguments_for')
-#st.table(pros)
-st.table(bonus_1_raw_df)
+bonus_1_pro_args.columns = ['Argument','Number']
+bonus_1_against_args.columns = ['Argument','Number']
 
 
 
@@ -129,12 +104,7 @@ st.table(bonus_1_raw_df)
 
 
 
-
-
-
-
-
-
+#    --------------------------------------------------------------------------------------------------------
 
 
 
@@ -163,8 +133,20 @@ if __name__ == '__main__':
             st.dataframe(table_1)
 
 
+    elif challenge == 'Bonus 1':
+        st.title('BONUS 1 TABLE')
+        st.table(bonus_1_df)
+        st.write()
+        st.write()
+        st.subheader('PRO ARGUMENTS TABLE')
+        st.table(bonus_1_pro_args)
+        st.write()
+        st.write()
+        st.subheader('AGAINST ARGUMENTS TABLE')
+        st.table(bonus_1_against_args)
 
-
+    else:
+        st.title('BONUS 2 TABLE')
 
 
 
