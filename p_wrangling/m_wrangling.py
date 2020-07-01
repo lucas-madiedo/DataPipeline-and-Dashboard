@@ -103,9 +103,6 @@ def create_full_raw_table():
 
 #### EXTRA FOR BONUS 1 ######
 
-bonus_1_path = 'data/results/result_bonus1_procons_args.csv'
-bonus_1_df = pd.read_csv(bonus_1_path)
-
 
 
 def count_arguments(df, column):

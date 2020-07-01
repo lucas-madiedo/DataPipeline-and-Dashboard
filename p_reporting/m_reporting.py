@@ -18,7 +18,7 @@ def make_final_base_table(raw_df, country):
                             'gender': 'Quantity'
                             })
 
-    # se añade una columna sobre gender con la cuenta de pais, job, tabajo
+    # se añade una columna sobre gender con la cuenta de pais, job, trabajo
     df = df.groupby(['Country', 'Job Title', 'Age']).agg('count').reset_index()
     df = df[df['Quantity'].notna()]
 
@@ -106,8 +106,9 @@ def api_skill_json(list_of_jobs, text):
     append_url = '/related_skills'
 
     json = []
+    len_jobs = len(list_of_jobs)
 
-    for i, job_cod in enumerate(list_of_jobs):
+    for i, job_cod in enumerate(list_of_jobs[:2]): #<-----------------------------------------capar aqui list_of_jobs[:10]
         i += 1
         url = base_url + job_cod + append_url
 
@@ -115,8 +116,8 @@ def api_skill_json(list_of_jobs, text):
         job_info = response.json()
         json.append(job_info)
 
-        print(f'{text.title()} category jobs examinated for skills: {i}/{len(list_of_jobs)}', end='\r')
-
+        print(f'\t{text.title()} category jobs examinated for skills: {i}/{len_jobs}', end='\r')
+    print()
     return json
 
 
@@ -148,7 +149,7 @@ def extract_top_skills(full_raw_df, text):
     '''combines all the above functions and return a list of the top 10 skills for a given level of education'''
 
     list_jobs_by_ed = make_sub_by_cat(full_raw_df, text)
-    json = api_skill_json(list_jobs_by_ed[:10], text)  # capar aquí  (api_skill_json(list_jobs_by_ed[:X],text) )
+    json = api_skill_json(list_jobs_by_ed, text)  #<--------------   capar aquí  (api_skill_json(list_jobs_by_ed[:X],text) )
     list_of_skills = create_list_skills_from_json(json)
     top_10_skills = created_sorted_dictionary(list_of_skills)[:10]
     lista = [f'{a[0].title()} ({a[1]})' for a in top_10_skills]

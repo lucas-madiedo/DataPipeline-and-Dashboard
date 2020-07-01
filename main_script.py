@@ -25,16 +25,16 @@ def main(args):
     job_code = m_acquisition.countries_info_extract(conection)
     m_acquisition.extract_carrer_info(conection)
 
-    print('Starting Data Wrangling Process\n')
+    print('\nStarting Data Wrangling Process\n')
     raw_df = m_wrangling.create_full_raw_table()
 
     print('Starting Data Reporting Process\n')
     m_reporting.main_table_ch1(raw_df,args.country)
     m_reporting.bonus_1_function(poll_df)
-    m_wrangling.create_bonus_poll_tables(poll_df)
+    #m_wrangling.create_bonus_poll_tables(poll_df) #<------------------- Comentar para la presentación
     m_reporting.create_bonus2_df_and_csv(raw_df,OPTIONS)
 
-    print('\nPipeline is complete__________')
+    print('\nPipeline is complete__________\n\n')
 
 
 if __name__ == "__main__":
