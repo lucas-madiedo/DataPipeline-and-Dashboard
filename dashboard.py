@@ -14,7 +14,7 @@ MAIL_PASS = mail_config['password']
 
 
 #HEADER
-st.sidebar.title('MODULE ONE PORJECT: DASHBOARD')
+st.sidebar.title('MODULE ONE PROJECT: DASHBOARD')
 st.sidebar.subheader('Lucas Madiedo')
 st.sidebar.subheader(' ')
 

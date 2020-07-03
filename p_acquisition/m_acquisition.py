@@ -226,7 +226,7 @@ def api_info (job_code_list):
     base_url =  'http://api.dataatwork.org/v1/jobs/'
     json = []
     i = 0
-    for job_cod in job_code_list[:10]: # <--------------------------------------------CAPADO AQUI  job_code_list[:10]:
+    for job_cod in job_code_list[:15]: # <--------------------------------------------CAPADO AQUI  job_code_list[:10]:
         i += 1
         url = base_url+job_cod
         response = requests.get(url)

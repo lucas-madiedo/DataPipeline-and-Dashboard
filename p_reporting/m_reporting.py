@@ -108,7 +108,7 @@ def api_skill_json(list_of_jobs, text):
     json = []
     len_jobs = len(list_of_jobs)
 
-    for i, job_cod in enumerate(list_of_jobs[:2]): #<-----------------------------------------capar aqui list_of_jobs[:10]
+    for i, job_cod in enumerate(list_of_jobs[:3]): #<-----------------------------------------capar aqui list_of_jobs[:10]
         i += 1
         url = base_url + job_cod + append_url
 

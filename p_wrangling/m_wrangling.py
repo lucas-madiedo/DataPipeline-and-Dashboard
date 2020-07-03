@@ -105,12 +105,12 @@ def create_full_raw_table():
 
 
 
-def count_arguments(df, column):
+def count_arguments(df, column, char='|'):
     list_of_list = []
     list_of_responses = df[column].to_list()
     for response in list_of_responses:
-        sub = response.split(' | ')
-        list_of_list.append(sub)
+        sub = response.split(char)
+        list_of_list.append(sub.strip())
 
     flat_list = [item for sublist in list_of_list for item in sublist]
     dic_count = {item: flat_list.count(item) for item in flat_list}
