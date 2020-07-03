@@ -26,7 +26,7 @@ def extract_personal_table(conection):
 
 def gender_column(df):
     '''
-    Unifies values on column "Gender" and asing a category type-
+    Unifies values on column "Gender" and gives a category type-
     ...........................
     input: DataFrame
     output: DataFrame
@@ -48,8 +48,8 @@ def children_column (df):
 
     yes_filter = df['dem_has_children'].str.contains('[Yy]',regex = True)
 
-    df.loc[yes_filter,'dem_has_children'] = 'yes' #asing all ceils with an y to: yes
-    df.loc[-yes_filter,'dem_has_children'] = 'no' #asing cell with no y to: no
+    df.loc[yes_filter,'dem_has_children'] = 'yes' #changes all ceils with an y to: yes
+    df.loc[-yes_filter,'dem_has_children'] = 'no' #changes cell with no y to: no
 
     #change data type to categoy
     df['dem_has_children'] = df['dem_has_children'].astype('category')

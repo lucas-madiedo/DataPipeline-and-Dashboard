@@ -1,626 +1,598 @@
 Country,Job Title,Age,Quantity,Percentage
-United Kingdom,No Full-Time Job,43,27.0,0.64%
-Germany,No Full-Time Job,19,27.0,0.64%
-Germany,No Full-Time Job,17,26.0,0.62%
-Germany,No Full-Time Job,18,26.0,0.62%
-France,No Full-Time Job,40,25.0,0.6%
-Germany,No Full-Time Job,16,25.0,0.6%
-Spain,No Full-Time Job,41,25.0,0.6%
-France,No Full-Time Job,20,25.0,0.6%
-United Kingdom,No Full-Time Job,15,24.0,0.57%
-Germany,No Full-Time Job,15,23.0,0.55%
-France,No Full-Time Job,18,22.0,0.53%
-Germany,No Full-Time Job,25,22.0,0.53%
-Spain,No Full-Time Job,19,22.0,0.53%
-Germany,No Full-Time Job,20,22.0,0.53%
-Italy,No Full-Time Job,25,21.0,0.5%
-Germany,No Full-Time Job,40,20.0,0.48%
-Italy,No Full-Time Job,41,20.0,0.48%
-Italy,No Full-Time Job,31,20.0,0.48%
-France,No Full-Time Job,19,19.0,0.45%
-United Kingdom,No Full-Time Job,16,19.0,0.45%
-United Kingdom,No Full-Time Job,19,19.0,0.45%
-United Kingdom,No Full-Time Job,40,18.0,0.43%
-United Kingdom,No Full-Time Job,41,18.0,0.43%
-United Kingdom,No Full-Time Job,18,18.0,0.43%
-Poland,No Full-Time Job,19,18.0,0.43%
-Italy,No Full-Time Job,22,18.0,0.43%
-Poland,No Full-Time Job,18,18.0,0.43%
-Spain,No Full-Time Job,40,18.0,0.43%
-United Kingdom,No Full-Time Job,17,17.0,0.41%
-Spain,No Full-Time Job,44,17.0,0.41%
-Italy,No Full-Time Job,29,17.0,0.41%
-France,No Full-Time Job,25,17.0,0.41%
-France,No Full-Time Job,45,16.0,0.38%
-France,No Full-Time Job,43,16.0,0.38%
-United Kingdom,No Full-Time Job,53,16.0,0.38%
-Spain,No Full-Time Job,43,16.0,0.38%
-United Kingdom,No Full-Time Job,49,16.0,0.38%
-France,No Full-Time Job,21,15.0,0.36%
-Spain,No Full-Time Job,18,15.0,0.36%
-Germany,No Full-Time Job,26,15.0,0.36%
-France,No Full-Time Job,41,15.0,0.36%
-Germany,No Full-Time Job,31,15.0,0.36%
-Germany,No Full-Time Job,41,15.0,0.36%
-Germany,No Full-Time Job,45,15.0,0.36%
-Germany,No Full-Time Job,33,15.0,0.36%
-Italy,No Full-Time Job,16,14.0,0.33%
-Germany,No Full-Time Job,27,14.0,0.33%
-United Kingdom,No Full-Time Job,14,14.0,0.33%
-Italy,No Full-Time Job,18,14.0,0.33%
-Spain,No Full-Time Job,46,14.0,0.33%
-France,No Full-Time Job,29,14.0,0.33%
-Germany,No Full-Time Job,35,14.0,0.33%
-Spain,No Full-Time Job,25,14.0,0.33%
-Germany,No Full-Time Job,43,14.0,0.33%
-Germany,No Full-Time Job,44,14.0,0.33%
-Germany,No Full-Time Job,46,14.0,0.33%
-Italy,No Full-Time Job,35,13.0,0.31%
-United Kingdom,No Full-Time Job,46,13.0,0.31%
-Poland,No Full-Time Job,22,13.0,0.31%
-Poland,No Full-Time Job,20,13.0,0.31%
-Italy,No Full-Time Job,15,13.0,0.31%
-United Kingdom,No Full-Time Job,25,13.0,0.31%
-France,No Full-Time Job,55,13.0,0.31%
-Germany,No Full-Time Job,28,13.0,0.31%
-United Kingdom,No Full-Time Job,48,13.0,0.31%
-Germany,No Full-Time Job,49,13.0,0.31%
-France,No Full-Time Job,28,13.0,0.31%
-France,No Full-Time Job,23,13.0,0.31%
-Germany,No Full-Time Job,54,13.0,0.31%
-Italy,No Full-Time Job,28,13.0,0.31%
-Spain,No Full-Time Job,27,13.0,0.31%
-Italy,No Full-Time Job,53,13.0,0.31%
-United Kingdom,No Full-Time Job,47,13.0,0.31%
-France,No Full-Time Job,32,12.0,0.29%
-Spain,No Full-Time Job,23,12.0,0.29%
-France,No Full-Time Job,17,12.0,0.29%
-United Kingdom,No Full-Time Job,21,12.0,0.29%
-France,No Full-Time Job,16,12.0,0.29%
-Spain,No Full-Time Job,22,12.0,0.29%
-Spain,No Full-Time Job,20,12.0,0.29%
-France,No Full-Time Job,36,12.0,0.29%
-Spain,No Full-Time Job,35,12.0,0.29%
-France,No Full-Time Job,22,12.0,0.29%
-Spain,No Full-Time Job,49,12.0,0.29%
-Spain,No Full-Time Job,50,12.0,0.29%
-United Kingdom,No Full-Time Job,31,12.0,0.29%
-Germany,No Full-Time Job,47,12.0,0.29%
-Germany,No Full-Time Job,34,12.0,0.29%
-Poland,No Full-Time Job,52,12.0,0.29%
-Germany,No Full-Time Job,30,12.0,0.29%
-United Kingdom,No Full-Time Job,55,12.0,0.29%
-United Kingdom,No Full-Time Job,60,12.0,0.29%
-Germany,No Full-Time Job,23,12.0,0.29%
-Germany,No Full-Time Job,51,12.0,0.29%
-United Kingdom,No Full-Time Job,27,12.0,0.29%
-Poland,No Full-Time Job,30,12.0,0.29%
-France,No Full-Time Job,50,12.0,0.29%
-United Kingdom,No Full-Time Job,56,11.0,0.26%
-Spain,No Full-Time Job,21,11.0,0.26%
-Italy,No Full-Time Job,42,11.0,0.26%
-Italy,No Full-Time Job,20,11.0,0.26%
-France,No Full-Time Job,15,11.0,0.26%
-Italy,No Full-Time Job,43,11.0,0.26%
-Spain,No Full-Time Job,29,11.0,0.26%
-Spain,No Full-Time Job,24,11.0,0.26%
-Italy,No Full-Time Job,14,11.0,0.26%
-United Kingdom,No Full-Time Job,42,11.0,0.26%
-Romania,No Full-Time Job,18,11.0,0.26%
-Germany,No Full-Time Job,21,11.0,0.26%
-France,No Full-Time Job,27,11.0,0.26%
-Poland,No Full-Time Job,65,11.0,0.26%
-France,No Full-Time Job,26,11.0,0.26%
-United Kingdom,No Full-Time Job,37,11.0,0.26%
-Netherlands,No Full-Time Job,45,11.0,0.26%
-United Kingdom,No Full-Time Job,33,11.0,0.26%
-Germany,No Full-Time Job,29,11.0,0.26%
-France,No Full-Time Job,59,11.0,0.26%
-United Kingdom,No Full-Time Job,28,11.0,0.26%
-Netherlands,No Full-Time Job,47,11.0,0.26%
-United Kingdom,No Full-Time Job,26,11.0,0.26%
-France,No Full-Time Job,46,11.0,0.26%
-Spain,No Full-Time Job,39,10.0,0.24%
-Spain,No Full-Time Job,26,10.0,0.24%
-Italy,No Full-Time Job,48,10.0,0.24%
-France,No Full-Time Job,48,10.0,0.24%
-Italy,No Full-Time Job,45,10.0,0.24%
-Italy,No Full-Time Job,19,10.0,0.24%
-Germany,No Full-Time Job,61,10.0,0.24%
-France,No Full-Time Job,47,10.0,0.24%
-Germany,No Full-Time Job,42,10.0,0.24%
-Germany,No Full-Time Job,32,10.0,0.24%
-France,No Full-Time Job,37,10.0,0.24%
-France,No Full-Time Job,44,10.0,0.24%
-France,No Full-Time Job,52,10.0,0.24%
-Germany,No Full-Time Job,52,10.0,0.24%
-Poland,No Full-Time Job,23,10.0,0.24%
-United Kingdom,No Full-Time Job,62,10.0,0.24%
-Italy,No Full-Time Job,46,9.0,0.21%
-France,No Full-Time Job,35,9.0,0.21%
-Germany,No Full-Time Job,22,9.0,0.21%
-France,No Full-Time Job,57,9.0,0.21%
-France,No Full-Time Job,30,9.0,0.21%
-United Kingdom,No Full-Time Job,51,9.0,0.21%
-Italy,No Full-Time Job,52,9.0,0.21%
-Italy,No Full-Time Job,33,9.0,0.21%
-Spain,No Full-Time Job,42,9.0,0.21%
-United Kingdom,No Full-Time Job,44,9.0,0.21%
-Poland,No Full-Time Job,25,9.0,0.21%
-United Kingdom,No Full-Time Job,20,9.0,0.21%
-United Kingdom,No Full-Time Job,30,9.0,0.21%
-Italy,No Full-Time Job,40,9.0,0.21%
-Poland,No Full-Time Job,53,9.0,0.21%
-Spain,No Full-Time Job,51,9.0,0.21%
-Germany,No Full-Time Job,14,9.0,0.21%
-France,No Full-Time Job,49,9.0,0.21%
-United Kingdom,No Full-Time Job,63,9.0,0.21%
-Italy,No Full-Time Job,17,8.0,0.19%
-Spain,No Full-Time Job,47,8.0,0.19%
-Spain,No Full-Time Job,48,8.0,0.19%
-United Kingdom,No Full-Time Job,29,8.0,0.19%
-United Kingdom,No Full-Time Job,35,8.0,0.19%
-Poland,No Full-Time Job,54,8.0,0.19%
-Italy,No Full-Time Job,50,8.0,0.19%
-France,No Full-Time Job,58,8.0,0.19%
-Italy,No Full-Time Job,24,8.0,0.19%
-Poland,No Full-Time Job,32,8.0,0.19%
-Poland,No Full-Time Job,61,8.0,0.19%
-United Kingdom,No Full-Time Job,58,8.0,0.19%
-Germany,No Full-Time Job,37,8.0,0.19%
-Germany,No Full-Time Job,48,8.0,0.19%
-Germany,No Full-Time Job,39,8.0,0.19%
-Italy,No Full-Time Job,39,8.0,0.19%
-Poland,No Full-Time Job,35,8.0,0.19%
-Spain,No Full-Time Job,28,8.0,0.19%
-Italy,No Full-Time Job,30,8.0,0.19%
-Poland,No Full-Time Job,63,8.0,0.19%
-Germany,No Full-Time Job,36,8.0,0.19%
-Poland,No Full-Time Job,27,8.0,0.19%
-Italy,No Full-Time Job,47,8.0,0.19%
-Germany,No Full-Time Job,58,7.0,0.17%
-United Kingdom,No Full-Time Job,24,7.0,0.17%
-Germany,No Full-Time Job,24,7.0,0.17%
-Sweden,No Full-Time Job,16,7.0,0.17%
-Italy,No Full-Time Job,54,7.0,0.17%
-Netherlands,No Full-Time Job,16,7.0,0.17%
-Spain,No Full-Time Job,53,7.0,0.17%
-Italy,No Full-Time Job,55,7.0,0.17%
-Poland,No Full-Time Job,59,7.0,0.17%
-United Kingdom,No Full-Time Job,32,7.0,0.17%
-France,No Full-Time Job,62,7.0,0.17%
-Netherlands,No Full-Time Job,48,7.0,0.17%
-France,No Full-Time Job,31,7.0,0.17%
-Italy,No Full-Time Job,32,7.0,0.17%
-United Kingdom,No Full-Time Job,34,7.0,0.17%
-France,No Full-Time Job,61,7.0,0.17%
-Italy,No Full-Time Job,27,7.0,0.17%
-Poland,No Full-Time Job,17,7.0,0.17%
-Italy,No Full-Time Job,21,7.0,0.17%
-Poland,No Full-Time Job,60,7.0,0.17%
-United Kingdom,No Full-Time Job,50,7.0,0.17%
-Poland,No Full-Time Job,21,7.0,0.17%
-United Kingdom,No Full-Time Job,36,7.0,0.17%
-Italy,No Full-Time Job,44,7.0,0.17%
-France,No Full-Time Job,34,7.0,0.17%
-Netherlands,No Full-Time Job,50,6.0,0.14%
-Spain,No Full-Time Job,57,6.0,0.14%
-Spain,No Full-Time Job,36,6.0,0.14%
-Spain,No Full-Time Job,55,6.0,0.14%
-Spain,No Full-Time Job,17,6.0,0.14%
-France,No Full-Time Job,53,6.0,0.14%
-Poland,No Full-Time Job,45,6.0,0.14%
-Spain,No Full-Time Job,45,6.0,0.14%
-Hungary,No Full-Time Job,58,6.0,0.14%
-Netherlands,No Full-Time Job,20,6.0,0.14%
-France,No Full-Time Job,60,6.0,0.14%
-France,No Full-Time Job,42,6.0,0.14%
-Spain,No Full-Time Job,32,6.0,0.14%
+United Kingdom,No Full-Time Job,43,27.0,0.61%
+Germany,No Full-Time Job,19,27.0,0.61%
+Germany,No Full-Time Job,18,26.0,0.59%
+Germany,No Full-Time Job,17,26.0,0.59%
+Germany,No Full-Time Job,16,25.0,0.57%
+France,No Full-Time Job,20,25.0,0.57%
+France,No Full-Time Job,40,25.0,0.57%
+Spain,No Full-Time Job,41,25.0,0.57%
+United Kingdom,No Full-Time Job,15,24.0,0.54%
+Germany,No Full-Time Job,15,23.0,0.52%
+France,No Full-Time Job,18,22.0,0.5%
+Germany,No Full-Time Job,20,22.0,0.5%
+Germany,No Full-Time Job,25,22.0,0.5%
+Spain,No Full-Time Job,19,22.0,0.5%
+Italy,No Full-Time Job,25,21.0,0.48%
+Germany,No Full-Time Job,40,20.0,0.45%
+Italy,No Full-Time Job,41,20.0,0.45%
+Italy,No Full-Time Job,31,20.0,0.45%
+United Kingdom,No Full-Time Job,19,19.0,0.43%
+United Kingdom,No Full-Time Job,16,19.0,0.43%
+France,No Full-Time Job,19,19.0,0.43%
+United Kingdom,No Full-Time Job,18,18.0,0.41%
+Poland,No Full-Time Job,18,18.0,0.41%
+Spain,No Full-Time Job,40,18.0,0.41%
+United Kingdom,No Full-Time Job,40,18.0,0.41%
+United Kingdom,No Full-Time Job,41,18.0,0.41%
+Poland,No Full-Time Job,19,18.0,0.41%
+Italy,No Full-Time Job,22,18.0,0.41%
+Italy,No Full-Time Job,29,17.0,0.38%
+Spain,No Full-Time Job,44,17.0,0.38%
+United Kingdom,No Full-Time Job,17,17.0,0.38%
+France,No Full-Time Job,25,17.0,0.38%
+United Kingdom,No Full-Time Job,53,16.0,0.36%
+France,No Full-Time Job,45,16.0,0.36%
+Spain,No Full-Time Job,43,16.0,0.36%
+France,No Full-Time Job,43,16.0,0.36%
+United Kingdom,No Full-Time Job,49,16.0,0.36%
+Germany,No Full-Time Job,33,15.0,0.34%
+Germany,No Full-Time Job,41,15.0,0.34%
+Germany,No Full-Time Job,26,15.0,0.34%
+France,No Full-Time Job,21,15.0,0.34%
+Germany,No Full-Time Job,45,15.0,0.34%
+Germany,No Full-Time Job,31,15.0,0.34%
+Spain,No Full-Time Job,18,15.0,0.34%
+France,No Full-Time Job,41,15.0,0.34%
+Germany,No Full-Time Job,46,14.0,0.32%
+Germany,No Full-Time Job,35,14.0,0.32%
+Spain,No Full-Time Job,46,14.0,0.32%
+France,No Full-Time Job,29,14.0,0.32%
+Italy,No Full-Time Job,16,14.0,0.32%
+United Kingdom,No Full-Time Job,14,14.0,0.32%
+Germany,No Full-Time Job,43,14.0,0.32%
+Germany,No Full-Time Job,44,14.0,0.32%
+Italy,No Full-Time Job,18,14.0,0.32%
+Germany,No Full-Time Job,27,14.0,0.32%
+Spain,No Full-Time Job,25,14.0,0.32%
+Spain,No Full-Time Job,27,13.0,0.29%
+Italy,No Full-Time Job,28,13.0,0.29%
+France,No Full-Time Job,55,13.0,0.29%
+United Kingdom,No Full-Time Job,46,13.0,0.29%
+United Kingdom,No Full-Time Job,47,13.0,0.29%
+United Kingdom,No Full-Time Job,48,13.0,0.29%
+Poland,No Full-Time Job,20,13.0,0.29%
+Poland,No Full-Time Job,22,13.0,0.29%
+Italy,No Full-Time Job,35,13.0,0.29%
+Germany,No Full-Time Job,54,13.0,0.29%
+Italy,No Full-Time Job,53,13.0,0.29%
+France,No Full-Time Job,28,13.0,0.29%
+France,No Full-Time Job,23,13.0,0.29%
+Italy,No Full-Time Job,15,13.0,0.29%
+Germany,No Full-Time Job,49,13.0,0.29%
+United Kingdom,No Full-Time Job,25,13.0,0.29%
+Germany,No Full-Time Job,28,13.0,0.29%
+Spain,No Full-Time Job,22,12.0,0.27%
+Spain,No Full-Time Job,23,12.0,0.27%
+Germany,No Full-Time Job,30,12.0,0.27%
+Germany,No Full-Time Job,23,12.0,0.27%
+United Kingdom,No Full-Time Job,27,12.0,0.27%
+France,No Full-Time Job,32,12.0,0.27%
+United Kingdom,No Full-Time Job,21,12.0,0.27%
+Spain,No Full-Time Job,20,12.0,0.27%
+Poland,No Full-Time Job,52,12.0,0.27%
+United Kingdom,No Full-Time Job,55,12.0,0.27%
+Spain,No Full-Time Job,49,12.0,0.27%
+Spain,No Full-Time Job,50,12.0,0.27%
+France,No Full-Time Job,17,12.0,0.27%
+Germany,No Full-Time Job,47,12.0,0.27%
+Germany,No Full-Time Job,34,12.0,0.27%
+France,No Full-Time Job,50,12.0,0.27%
+United Kingdom,No Full-Time Job,60,12.0,0.27%
+France,No Full-Time Job,22,12.0,0.27%
+France,No Full-Time Job,16,12.0,0.27%
+Poland,No Full-Time Job,30,12.0,0.27%
+Spain,No Full-Time Job,35,12.0,0.27%
+United Kingdom,No Full-Time Job,31,12.0,0.27%
+France,No Full-Time Job,36,12.0,0.27%
+Germany,No Full-Time Job,51,12.0,0.27%
+Italy,No Full-Time Job,42,11.0,0.25%
+France,No Full-Time Job,27,11.0,0.25%
+France,No Full-Time Job,26,11.0,0.25%
+Germany,No Full-Time Job,21,11.0,0.25%
+Italy,No Full-Time Job,43,11.0,0.25%
+France,No Full-Time Job,15,11.0,0.25%
+Poland,No Full-Time Job,65,11.0,0.25%
+United Kingdom,No Full-Time Job,56,11.0,0.25%
+Romania,No Full-Time Job,18,11.0,0.25%
+France,No Full-Time Job,59,11.0,0.25%
+Spain,No Full-Time Job,21,11.0,0.25%
+Italy,No Full-Time Job,14,11.0,0.25%
+France,No Full-Time Job,46,11.0,0.25%
+United Kingdom,No Full-Time Job,42,11.0,0.25%
+Netherlands,No Full-Time Job,45,11.0,0.25%
+Spain,No Full-Time Job,24,11.0,0.25%
+Spain,No Full-Time Job,29,11.0,0.25%
+United Kingdom,No Full-Time Job,33,11.0,0.25%
+Italy,No Full-Time Job,20,11.0,0.25%
+United Kingdom,No Full-Time Job,37,11.0,0.25%
+United Kingdom,No Full-Time Job,28,11.0,0.25%
+United Kingdom,No Full-Time Job,26,11.0,0.25%
+Germany,No Full-Time Job,29,11.0,0.25%
+Netherlands,No Full-Time Job,47,11.0,0.25%
+France,No Full-Time Job,52,10.0,0.23%
+Germany,No Full-Time Job,32,10.0,0.23%
+United Kingdom,No Full-Time Job,62,10.0,0.23%
+Spain,No Full-Time Job,39,10.0,0.23%
+France,No Full-Time Job,48,10.0,0.23%
+Spain,No Full-Time Job,26,10.0,0.23%
+France,No Full-Time Job,47,10.0,0.23%
+Italy,No Full-Time Job,45,10.0,0.23%
+Germany,No Full-Time Job,42,10.0,0.23%
+Germany,No Full-Time Job,52,10.0,0.23%
+Poland,No Full-Time Job,23,10.0,0.23%
+France,No Full-Time Job,44,10.0,0.23%
+France,No Full-Time Job,37,10.0,0.23%
+Germany,No Full-Time Job,61,10.0,0.23%
+Italy,No Full-Time Job,19,10.0,0.23%
+Italy,No Full-Time Job,48,10.0,0.23%
+Italy,No Full-Time Job,40,9.0,0.2%
+Italy,No Full-Time Job,52,9.0,0.2%
+Spain,No Full-Time Job,51,9.0,0.2%
+Italy,No Full-Time Job,33,9.0,0.2%
+France,No Full-Time Job,49,9.0,0.2%
+France,No Full-Time Job,30,9.0,0.2%
+Poland,No Full-Time Job,53,9.0,0.2%
+Italy,No Full-Time Job,46,9.0,0.2%
+France,No Full-Time Job,57,9.0,0.2%
+France,No Full-Time Job,35,9.0,0.2%
+United Kingdom,No Full-Time Job,51,9.0,0.2%
+United Kingdom,No Full-Time Job,30,9.0,0.2%
+Germany,No Full-Time Job,14,9.0,0.2%
+Poland,No Full-Time Job,25,9.0,0.2%
+United Kingdom,No Full-Time Job,20,9.0,0.2%
+United Kingdom,No Full-Time Job,63,9.0,0.2%
+Germany,No Full-Time Job,22,9.0,0.2%
+Spain,No Full-Time Job,42,9.0,0.2%
+United Kingdom,No Full-Time Job,44,9.0,0.2%
+United Kingdom,No Full-Time Job,35,8.0,0.18%
+Italy,No Full-Time Job,17,8.0,0.18%
+Germany,No Full-Time Job,39,8.0,0.18%
+United Kingdom,No Full-Time Job,58,8.0,0.18%
+Germany,No Full-Time Job,37,8.0,0.18%
+Germany,No Full-Time Job,36,8.0,0.18%
+Spain,No Full-Time Job,47,8.0,0.18%
+Italy,No Full-Time Job,30,8.0,0.18%
+Spain,No Full-Time Job,28,8.0,0.18%
+Germany,No Full-Time Job,48,8.0,0.18%
+Poland,No Full-Time Job,61,8.0,0.18%
+France,No Full-Time Job,58,8.0,0.18%
+Italy,No Full-Time Job,39,8.0,0.18%
+Italy,No Full-Time Job,24,8.0,0.18%
+United Kingdom,No Full-Time Job,29,8.0,0.18%
+Spain,No Full-Time Job,48,8.0,0.18%
+Poland,No Full-Time Job,35,8.0,0.18%
+Poland,No Full-Time Job,32,8.0,0.18%
+Italy,No Full-Time Job,47,8.0,0.18%
+Italy,No Full-Time Job,50,8.0,0.18%
+Poland,No Full-Time Job,63,8.0,0.18%
+Poland,No Full-Time Job,54,8.0,0.18%
+Poland,No Full-Time Job,27,8.0,0.18%
+Poland,No Full-Time Job,59,7.0,0.16%
+Italy,No Full-Time Job,21,7.0,0.16%
+Germany,No Full-Time Job,58,7.0,0.16%
+Italy,No Full-Time Job,54,7.0,0.16%
+Italy,No Full-Time Job,55,7.0,0.16%
+United Kingdom,No Full-Time Job,34,7.0,0.16%
+United Kingdom,No Full-Time Job,32,7.0,0.16%
+France,No Full-Time Job,62,7.0,0.16%
+Poland,No Full-Time Job,60,7.0,0.16%
+France,No Full-Time Job,34,7.0,0.16%
+United Kingdom,No Full-Time Job,36,7.0,0.16%
+Sweden,No Full-Time Job,16,7.0,0.16%
+Italy,No Full-Time Job,27,7.0,0.16%
+Spain,No Full-Time Job,53,7.0,0.16%
+Netherlands,No Full-Time Job,16,7.0,0.16%
+United Kingdom,No Full-Time Job,50,7.0,0.16%
+United Kingdom,No Full-Time Job,24,7.0,0.16%
+Poland,No Full-Time Job,17,7.0,0.16%
+Italy,No Full-Time Job,44,7.0,0.16%
+Italy,No Full-Time Job,32,7.0,0.16%
+Netherlands,No Full-Time Job,48,7.0,0.16%
+Poland,No Full-Time Job,21,7.0,0.16%
+France,No Full-Time Job,61,7.0,0.16%
+Germany,No Full-Time Job,24,7.0,0.16%
+France,No Full-Time Job,31,7.0,0.16%
 Spain,No Full-Time Job,16,6.0,0.14%
-Austria,No Full-Time Job,26,6.0,0.14%
-Italy,No Full-Time Job,26,6.0,0.14%
-Poland,No Full-Time Job,42,6.0,0.14%
-Italy,No Full-Time Job,23,6.0,0.14%
 United Kingdom,No Full-Time Job,64,6.0,0.14%
-United Kingdom,No Full-Time Job,45,6.0,0.14%
-France,No Full-Time Job,24,6.0,0.14%
-Czechia,No Full-Time Job,20,6.0,0.14%
-Poland,No Full-Time Job,46,6.0,0.14%
-Sweden,No Full-Time Job,28,6.0,0.14%
-Poland,No Full-Time Job,15,6.0,0.14%
-Belgium,No Full-Time Job,19,6.0,0.14%
-Spain,No Full-Time Job,34,6.0,0.14%
-United Kingdom,No Full-Time Job,22,6.0,0.14%
-Italy,No Full-Time Job,58,6.0,0.14%
-Greece,No Full-Time Job,45,6.0,0.14%
-France,No Full-Time Job,38,6.0,0.14%
-Croatia,No Full-Time Job,22,6.0,0.14%
-France,No Full-Time Job,14,6.0,0.14%
+Poland,No Full-Time Job,42,6.0,0.14%
+Poland,No Full-Time Job,45,6.0,0.14%
+France,No Full-Time Job,42,6.0,0.14%
+Spain,No Full-Time Job,17,6.0,0.14%
 United Kingdom,No Full-Time Job,57,6.0,0.14%
-Poland,No Full-Time Job,58,5.0,0.12%
-Netherlands,No Full-Time Job,32,5.0,0.12%
-Romania,No Full-Time Job,47,5.0,0.12%
-France,No Full-Time Job,39,5.0,0.12%
-Poland,No Full-Time Job,62,5.0,0.12%
-Netherlands,No Full-Time Job,46,5.0,0.12%
-Hungary,No Full-Time Job,20,5.0,0.12%
-Greece,No Full-Time Job,40,5.0,0.12%
-Netherlands,No Full-Time Job,43,5.0,0.12%
-France,No Full-Time Job,51,5.0,0.12%
-Spain,No Full-Time Job,15,5.0,0.12%
-Netherlands,No Full-Time Job,39,5.0,0.12%
-Belgium,No Full-Time Job,23,5.0,0.12%
-Germany,No Full-Time Job,60,5.0,0.12%
-United Kingdom,No Full-Time Job,52,5.0,0.12%
-Poland,No Full-Time Job,34,5.0,0.12%
-Germany,No Full-Time Job,55,5.0,0.12%
-Germany,No Full-Time Job,53,5.0,0.12%
-Italy,No Full-Time Job,49,5.0,0.12%
-United Kingdom,No Full-Time Job,59,5.0,0.12%
-United Kingdom,No Full-Time Job,38,5.0,0.12%
-Poland,No Full-Time Job,31,5.0,0.12%
-Poland,No Full-Time Job,29,5.0,0.12%
-United Kingdom,No Full-Time Job,39,5.0,0.12%
-Poland,No Full-Time Job,50,5.0,0.12%
-Germany,No Full-Time Job,50,5.0,0.12%
-Italy,No Full-Time Job,34,5.0,0.12%
-Czechia,No Full-Time Job,26,5.0,0.12%
-Germany,No Full-Time Job,38,5.0,0.12%
-Poland,No Full-Time Job,14,5.0,0.12%
-Italy,No Full-Time Job,38,5.0,0.12%
-Poland,No Full-Time Job,16,5.0,0.12%
-United Kingdom,No Full-Time Job,65,5.0,0.12%
-Italy,No Full-Time Job,65,5.0,0.12%
-Romania,No Full-Time Job,22,5.0,0.12%
-Netherlands,No Full-Time Job,21,5.0,0.12%
-Netherlands,No Full-Time Job,25,5.0,0.12%
-Hungary,No Full-Time Job,40,5.0,0.12%
-Poland,No Full-Time Job,43,5.0,0.12%
-Greece,No Full-Time Job,15,5.0,0.12%
-Poland,No Full-Time Job,55,5.0,0.12%
-Finland,No Full-Time Job,18,5.0,0.12%
-Netherlands,No Full-Time Job,18,5.0,0.12%
-Netherlands,No Full-Time Job,52,5.0,0.12%
-Poland,No Full-Time Job,44,5.0,0.12%
-Hungary,No Full-Time Job,62,5.0,0.12%
-Netherlands,No Full-Time Job,31,4.0,0.1%
-Greece,No Full-Time Job,27,4.0,0.1%
-Bulgaria,No Full-Time Job,30,4.0,0.1%
-Netherlands,No Full-Time Job,26,4.0,0.1%
-Netherlands,No Full-Time Job,14,4.0,0.1%
-Netherlands,No Full-Time Job,24,4.0,0.1%
-Netherlands,No Full-Time Job,22,4.0,0.1%
-Germany,No Full-Time Job,63,4.0,0.1%
-Netherlands,No Full-Time Job,19,4.0,0.1%
-Greece,No Full-Time Job,25,4.0,0.1%
-Greece,No Full-Time Job,20,4.0,0.1%
-Poland,No Full-Time Job,57,4.0,0.1%
-Germany,No Full-Time Job,57,4.0,0.1%
-Germany,No Full-Time Job,59,4.0,0.1%
-France,No Full-Time Job,65,4.0,0.1%
-France,No Full-Time Job,63,4.0,0.1%
-Poland,No Full-Time Job,24,4.0,0.1%
-Romania,No Full-Time Job,27,4.0,0.1%
-Finland,No Full-Time Job,40,4.0,0.1%
-Romania,No Full-Time Job,45,4.0,0.1%
-Poland,No Full-Time Job,39,4.0,0.1%
-Italy,No Full-Time Job,51,4.0,0.1%
-Sweden,No Full-Time Job,25,4.0,0.1%
-Denmark,No Full-Time Job,42,4.0,0.1%
-Romania,No Full-Time Job,33,4.0,0.1%
-Denmark,No Full-Time Job,46,4.0,0.1%
-Ireland,No Full-Time Job,18,4.0,0.1%
-Portugal,No Full-Time Job,41,4.0,0.1%
-Spain,No Full-Time Job,52,4.0,0.1%
-Spain,No Full-Time Job,54,4.0,0.1%
-Bulgaria,No Full-Time Job,45,4.0,0.1%
-Italy,No Full-Time Job,56,4.0,0.1%
-Romania,No Full-Time Job,23,4.0,0.1%
-Netherlands,No Full-Time Job,59,4.0,0.1%
-Sweden,No Full-Time Job,15,4.0,0.1%
-Spain,No Full-Time Job,33,4.0,0.1%
-Spain,No Full-Time Job,37,4.0,0.1%
-Austria,No Full-Time Job,35,4.0,0.1%
-Sweden,No Full-Time Job,50,4.0,0.1%
-Netherlands,No Full-Time Job,37,4.0,0.1%
-Austria,No Full-Time Job,15,4.0,0.1%
-Austria,No Full-Time Job,17,4.0,0.1%
-Greece,No Full-Time Job,41,4.0,0.1%
-United Kingdom,No Full-Time Job,61,4.0,0.1%
-Hungary,No Full-Time Job,26,4.0,0.1%
-Greece,No Full-Time Job,33,4.0,0.1%
-Netherlands,No Full-Time Job,34,4.0,0.1%
-Portugal,No Full-Time Job,18,4.0,0.1%
-Hungary,No Full-Time Job,15,4.0,0.1%
-United Kingdom,No Full-Time Job,54,4.0,0.1%
-Sweden,No Full-Time Job,32,4.0,0.1%
-France,No Full-Time Job,33,4.0,0.1%
-Italy,No Full-Time Job,57,3.0,0.07%
-Portugal,No Full-Time Job,34,3.0,0.07%
-Italy,No Full-Time Job,59,3.0,0.07%
-Italy,No Full-Time Job,61,3.0,0.07%
-Belgium,No Full-Time Job,16,3.0,0.07%
-Portugal,No Full-Time Job,39,3.0,0.07%
-Germany,No Full-Time Job,56,3.0,0.07%
-Italy,No Full-Time Job,37,3.0,0.07%
-Italy,No Full-Time Job,36,3.0,0.07%
-Belgium,No Full-Time Job,17,3.0,0.07%
-Portugal,No Full-Time Job,48,3.0,0.07%
-Italy,No Full-Time Job,64,3.0,0.07%
-Portugal,No Full-Time Job,45,3.0,0.07%
-Italy,No Full-Time Job,62,3.0,0.07%
+Spain,No Full-Time Job,57,6.0,0.14%
+France,No Full-Time Job,38,6.0,0.14%
+Netherlands,No Full-Time Job,50,6.0,0.14%
+Austria,No Full-Time Job,26,6.0,0.14%
+Poland,No Full-Time Job,46,6.0,0.14%
+Spain,No Full-Time Job,45,6.0,0.14%
+United Kingdom,No Full-Time Job,45,6.0,0.14%
+Belgium,No Full-Time Job,19,6.0,0.14%
+Greece,No Full-Time Job,45,6.0,0.14%
+Italy,No Full-Time Job,58,6.0,0.14%
+Hungary,No Full-Time Job,58,6.0,0.14%
+France,No Full-Time Job,24,6.0,0.14%
+Spain,No Full-Time Job,36,6.0,0.14%
+Czechia,No Full-Time Job,20,6.0,0.14%
+Spain,No Full-Time Job,55,6.0,0.14%
+Croatia,No Full-Time Job,22,6.0,0.14%
+Poland,No Full-Time Job,15,6.0,0.14%
+Spain,No Full-Time Job,34,6.0,0.14%
+France,No Full-Time Job,60,6.0,0.14%
+Netherlands,No Full-Time Job,20,6.0,0.14%
+United Kingdom,No Full-Time Job,22,6.0,0.14%
+Spain,No Full-Time Job,32,6.0,0.14%
+Sweden,No Full-Time Job,28,6.0,0.14%
+Italy,No Full-Time Job,26,6.0,0.14%
+Italy,No Full-Time Job,23,6.0,0.14%
+France,No Full-Time Job,53,6.0,0.14%
+France,No Full-Time Job,14,6.0,0.14%
+Poland,No Full-Time Job,62,5.0,0.11%
+Spain,No Full-Time Job,15,5.0,0.11%
+Finland,No Full-Time Job,18,5.0,0.11%
+Poland,No Full-Time Job,58,5.0,0.11%
+Poland,No Full-Time Job,14,5.0,0.11%
+Poland,No Full-Time Job,34,5.0,0.11%
+Greece,No Full-Time Job,40,5.0,0.11%
+Germany,No Full-Time Job,55,5.0,0.11%
+Poland,No Full-Time Job,31,5.0,0.11%
+Poland,No Full-Time Job,29,5.0,0.11%
+Poland,No Full-Time Job,55,5.0,0.11%
+United Kingdom,No Full-Time Job,59,5.0,0.11%
+Germany,No Full-Time Job,53,5.0,0.11%
+Poland,No Full-Time Job,16,5.0,0.11%
+Netherlands,No Full-Time Job,18,5.0,0.11%
+United Kingdom,No Full-Time Job,52,5.0,0.11%
+Netherlands,No Full-Time Job,21,5.0,0.11%
+Germany,No Full-Time Job,38,5.0,0.11%
+Netherlands,No Full-Time Job,25,5.0,0.11%
+Netherlands,No Full-Time Job,32,5.0,0.11%
+Belgium,No Full-Time Job,23,5.0,0.11%
+Netherlands,No Full-Time Job,39,5.0,0.11%
+Germany,No Full-Time Job,50,5.0,0.11%
+United Kingdom,No Full-Time Job,38,5.0,0.11%
+United Kingdom,No Full-Time Job,39,5.0,0.11%
+Netherlands,No Full-Time Job,46,5.0,0.11%
+Italy,No Full-Time Job,65,5.0,0.11%
+United Kingdom,No Full-Time Job,65,5.0,0.11%
+Italy,No Full-Time Job,49,5.0,0.11%
+Romania,No Full-Time Job,47,5.0,0.11%
+Poland,No Full-Time Job,50,5.0,0.11%
+France,No Full-Time Job,39,5.0,0.11%
+Poland,No Full-Time Job,44,5.0,0.11%
+Poland,No Full-Time Job,43,5.0,0.11%
+France,No Full-Time Job,51,5.0,0.11%
+Italy,No Full-Time Job,34,5.0,0.11%
+Italy,No Full-Time Job,38,5.0,0.11%
+Czechia,No Full-Time Job,26,5.0,0.11%
+Greece,No Full-Time Job,15,5.0,0.11%
+Hungary,No Full-Time Job,62,5.0,0.11%
+Hungary,No Full-Time Job,40,5.0,0.11%
+Germany,No Full-Time Job,60,5.0,0.11%
+Hungary,No Full-Time Job,20,5.0,0.11%
+Romania,No Full-Time Job,22,5.0,0.11%
+Netherlands,No Full-Time Job,52,5.0,0.11%
+Netherlands,No Full-Time Job,43,5.0,0.11%
+Germany,No Full-Time Job,57,4.0,0.09%
+Romania,No Full-Time Job,45,4.0,0.09%
+Germany,No Full-Time Job,63,4.0,0.09%
+Germany,No Full-Time Job,59,4.0,0.09%
+Greece,No Full-Time Job,27,4.0,0.09%
+Greece,No Full-Time Job,20,4.0,0.09%
+Greece,No Full-Time Job,25,4.0,0.09%
+Greece,No Full-Time Job,33,4.0,0.09%
+Greece,No Full-Time Job,41,4.0,0.09%
+Romania,No Full-Time Job,33,4.0,0.09%
+Romania,No Full-Time Job,27,4.0,0.09%
+Romania,No Full-Time Job,23,4.0,0.09%
+Ireland,No Full-Time Job,18,4.0,0.09%
+Hungary,No Full-Time Job,26,4.0,0.09%
+Portugal,No Full-Time Job,41,4.0,0.09%
+France,No Full-Time Job,65,4.0,0.09%
+France,No Full-Time Job,63,4.0,0.09%
+France,No Full-Time Job,33,4.0,0.09%
+Hungary,No Full-Time Job,15,4.0,0.09%
+Netherlands,No Full-Time Job,59,4.0,0.09%
+Denmark,No Full-Time Job,46,4.0,0.09%
+Austria,No Full-Time Job,35,4.0,0.09%
+Finland,No Full-Time Job,40,4.0,0.09%
+United Kingdom,No Full-Time Job,54,4.0,0.09%
+Netherlands,No Full-Time Job,37,4.0,0.09%
+Poland,No Full-Time Job,57,4.0,0.09%
+Netherlands,No Full-Time Job,34,4.0,0.09%
+Italy,No Full-Time Job,51,4.0,0.09%
+Netherlands,No Full-Time Job,31,4.0,0.09%
+Netherlands,No Full-Time Job,26,4.0,0.09%
+Netherlands,No Full-Time Job,24,4.0,0.09%
+Netherlands,No Full-Time Job,22,4.0,0.09%
+Sweden,No Full-Time Job,15,4.0,0.09%
+Poland,No Full-Time Job,24,4.0,0.09%
+Denmark,No Full-Time Job,42,4.0,0.09%
+Netherlands,No Full-Time Job,14,4.0,0.09%
+Sweden,No Full-Time Job,50,4.0,0.09%
+Bulgaria,No Full-Time Job,30,4.0,0.09%
+Sweden,No Full-Time Job,25,4.0,0.09%
+Netherlands,No Full-Time Job,19,4.0,0.09%
+Sweden,No Full-Time Job,32,4.0,0.09%
+Spain,No Full-Time Job,54,4.0,0.09%
+Italy,No Full-Time Job,56,4.0,0.09%
+Spain,No Full-Time Job,52,4.0,0.09%
+Spain,No Full-Time Job,33,4.0,0.09%
+Portugal,No Full-Time Job,18,4.0,0.09%
+Poland,No Full-Time Job,39,4.0,0.09%
+United Kingdom,No Full-Time Job,61,4.0,0.09%
+Austria,No Full-Time Job,17,4.0,0.09%
+Austria,No Full-Time Job,15,4.0,0.09%
+Bulgaria,No Full-Time Job,45,4.0,0.09%
+Spain,No Full-Time Job,37,4.0,0.09%
 Greece,No Full-Time Job,30,3.0,0.07%
-Ireland,No Full-Time Job,59,3.0,0.07%
-Romania,No Full-Time Job,43,3.0,0.07%
-Greece,No Full-Time Job,24,3.0,0.07%
-Greece,No Full-Time Job,37,3.0,0.07%
-Greece,No Full-Time Job,48,3.0,0.07%
-Slovakia,No Full-Time Job,19,3.0,0.07%
-Poland,No Full-Time Job,56,3.0,0.07%
-Slovakia,No Full-Time Job,16,3.0,0.07%
-Romania,No Full-Time Job,50,3.0,0.07%
-Hungary,No Full-Time Job,22,3.0,0.07%
-Belgium,No Full-Time Job,27,3.0,0.07%
-Portugal,No Full-Time Job,19,3.0,0.07%
-Greece,No Full-Time Job,19,3.0,0.07%
-Portugal,No Full-Time Job,21,3.0,0.07%
-Germany,No Full-Time Job,64,3.0,0.07%
-Greece,No Full-Time Job,18,3.0,0.07%
-Hungary,No Full-Time Job,64,3.0,0.07%
-Romania,No Full-Time Job,34,3.0,0.07%
-Greece,No Full-Time Job,17,3.0,0.07%
-Ireland,No Full-Time Job,16,3.0,0.07%
-Ireland,No Full-Time Job,32,3.0,0.07%
-Romania,No Full-Time Job,21,3.0,0.07%
 Romania,No Full-Time Job,20,3.0,0.07%
-Romania,No Full-Time Job,17,3.0,0.07%
-Ireland,No Full-Time Job,50,3.0,0.07%
-Germany,No Full-Time Job,65,3.0,0.07%
+Romania,No Full-Time Job,21,3.0,0.07%
+Italy,No Full-Time Job,62,3.0,0.07%
+Italy,No Full-Time Job,64,3.0,0.07%
+Greece,No Full-Time Job,48,3.0,0.07%
+Bulgaria,No Full-Time Job,59,3.0,0.07%
 Lithuania,No Full-Time Job,16,3.0,0.07%
-Austria,No Full-Time Job,31,3.0,0.07%
-Sweden,No Full-Time Job,20,3.0,0.07%
-Bulgaria,No Full-Time Job,18,3.0,0.07%
-Netherlands,No Full-Time Job,15,3.0,0.07%
-Sweden,No Full-Time Job,44,3.0,0.07%
-Netherlands,No Full-Time Job,17,3.0,0.07%
-Spain,No Full-Time Job,38,3.0,0.07%
-Netherlands,No Full-Time Job,27,3.0,0.07%
-Denmark,No Full-Time Job,30,3.0,0.07%
-Denmark,No Full-Time Job,47,3.0,0.07%
+Poland,No Full-Time Job,28,3.0,0.07%
 Croatia,No Full-Time Job,21,3.0,0.07%
-Spain,No Full-Time Job,30,3.0,0.07%
-United Kingdom,No Full-Time Job,23,3.0,0.07%
-Bulgaria,No Full-Time Job,20,3.0,0.07%
+Poland,No Full-Time Job,26,3.0,0.07%
+Greece,No Full-Time Job,18,3.0,0.07%
+Poland,No Full-Time Job,36,3.0,0.07%
+Croatia,No Full-Time Job,43,3.0,0.07%
+Netherlands,No Full-Time Job,15,3.0,0.07%
+Greece,No Full-Time Job,24,3.0,0.07%
+Slovakia,No Full-Time Job,19,3.0,0.07%
+Greece,No Full-Time Job,19,3.0,0.07%
+Romania,No Full-Time Job,34,3.0,0.07%
+Greece,No Full-Time Job,37,3.0,0.07%
+Poland,No Full-Time Job,33,3.0,0.07%
+Poland,No Full-Time Job,38,3.0,0.07%
+Portugal,No Full-Time Job,19,3.0,0.07%
+Bulgaria,No Full-Time Job,41,3.0,0.07%
+Netherlands,No Full-Time Job,17,3.0,0.07%
+Romania,No Full-Time Job,50,3.0,0.07%
+Netherlands,No Full-Time Job,58,3.0,0.07%
+Netherlands,No Full-Time Job,57,3.0,0.07%
+Romania,No Full-Time Job,43,3.0,0.07%
+Slovakia,No Full-Time Job,16,3.0,0.07%
+Germany,No Full-Time Job,65,3.0,0.07%
+Germany,No Full-Time Job,64,3.0,0.07%
+Austria,No Full-Time Job,14,3.0,0.07%
+Greece,No Full-Time Job,17,3.0,0.07%
 Netherlands,No Full-Time Job,62,3.0,0.07%
 Austria,No Full-Time Job,20,3.0,0.07%
-Spain,No Full-Time Job,63,3.0,0.07%
-Poland,No Full-Time Job,33,3.0,0.07%
-Bulgaria,No Full-Time Job,41,3.0,0.07%
-Netherlands,No Full-Time Job,41,3.0,0.07%
+Austria,No Full-Time Job,31,3.0,0.07%
+Germany,No Full-Time Job,56,3.0,0.07%
 Netherlands,No Full-Time Job,44,3.0,0.07%
-Poland,No Full-Time Job,41,3.0,0.07%
-Bulgaria,No Full-Time Job,59,3.0,0.07%
-Poland,No Full-Time Job,38,3.0,0.07%
-Denmark,No Full-Time Job,24,3.0,0.07%
-Croatia,No Full-Time Job,43,3.0,0.07%
-Spain,No Full-Time Job,60,3.0,0.07%
-Spain,No Full-Time Job,59,3.0,0.07%
-Sweden,No Full-Time Job,14,3.0,0.07%
-Austria,No Full-Time Job,14,3.0,0.07%
-Netherlands,No Full-Time Job,57,3.0,0.07%
-Denmark,No Full-Time Job,56,3.0,0.07%
-Czechia,No Full-Time Job,22,3.0,0.07%
-Czechia,No Full-Time Job,23,3.0,0.07%
-Poland,No Full-Time Job,26,3.0,0.07%
+Belgium,No Full-Time Job,16,3.0,0.07%
+Belgium,No Full-Time Job,17,3.0,0.07%
+Netherlands,No Full-Time Job,41,3.0,0.07%
+Belgium,No Full-Time Job,27,3.0,0.07%
+Netherlands,No Full-Time Job,27,3.0,0.07%
 Belgium,No Full-Time Job,42,3.0,0.07%
-Sweden,No Full-Time Job,18,3.0,0.07%
-Poland,No Full-Time Job,36,3.0,0.07%
-Czechia,No Full-Time Job,30,3.0,0.07%
-Finland,No Full-Time Job,16,3.0,0.07%
 Belgium,No Full-Time Job,48,3.0,0.07%
-Poland,No Full-Time Job,28,3.0,0.07%
+Italy,No Full-Time Job,61,3.0,0.07%
 Belgium,No Full-Time Job,53,3.0,0.07%
-Netherlands,No Full-Time Job,58,3.0,0.07%
 Belgium,No Full-Time Job,56,3.0,0.07%
-Czechia,No Full-Time Job,43,3.0,0.07%
+United Kingdom,No Full-Time Job,23,3.0,0.07%
+Bulgaria,No Full-Time Job,18,3.0,0.07%
+Bulgaria,No Full-Time Job,20,3.0,0.07%
+Romania,No Full-Time Job,17,3.0,0.07%
+United Kingdom,Data Coordinator,48,3.0,0.07%
+Italy,No Full-Time Job,37,3.0,0.07%
+Spain,No Full-Time Job,59,3.0,0.07%
+Finland,No Full-Time Job,16,3.0,0.07%
+Czechia,No Full-Time Job,22,3.0,0.07%
+Hungary,No Full-Time Job,64,3.0,0.07%
+Spain,No Full-Time Job,63,3.0,0.07%
+Poland,No Full-Time Job,56,3.0,0.07%
+Portugal,No Full-Time Job,39,3.0,0.07%
+Czechia,No Full-Time Job,23,3.0,0.07%
+Portugal,No Full-Time Job,34,3.0,0.07%
 Poland,No Full-Time Job,48,3.0,0.07%
+Italy,Database Modeler,46,3.0,0.07%
+Poland,No Full-Time Job,41,3.0,0.07%
+Czechia,No Full-Time Job,30,3.0,0.07%
+Czechia,No Full-Time Job,43,3.0,0.07%
+Sweden,No Full-Time Job,14,3.0,0.07%
+Sweden,No Full-Time Job,44,3.0,0.07%
+Italy,No Full-Time Job,36,3.0,0.07%
+Denmark,No Full-Time Job,56,3.0,0.07%
 Denmark,No Full-Time Job,22,3.0,0.07%
-Sweden,No Full-Time Job,17,2.0,0.05%
-Italy,No Full-Time Job,63,2.0,0.05%
-Sweden,No Full-Time Job,19,2.0,0.05%
-Portugal,No Full-Time Job,31,2.0,0.05%
-Belgium,No Full-Time Job,26,2.0,0.05%
-Ireland,No Full-Time Job,57,2.0,0.05%
-Ireland,No Full-Time Job,56,2.0,0.05%
-Portugal,No Full-Time Job,30,2.0,0.05%
-Netherlands,No Full-Time Job,61,2.0,0.05%
-Romania,No Full-Time Job,14,2.0,0.05%
-Belgium,No Full-Time Job,14,2.0,0.05%
-Spain,No Full-Time Job,61,2.0,0.05%
-Spain,No Full-Time Job,58,2.0,0.05%
-Romania,No Full-Time Job,25,2.0,0.05%
+Denmark,No Full-Time Job,24,3.0,0.07%
+Denmark,No Full-Time Job,30,3.0,0.07%
+Sweden,No Full-Time Job,20,3.0,0.07%
+Denmark,No Full-Time Job,47,3.0,0.07%
+Spain,No Full-Time Job,60,3.0,0.07%
+Sweden,No Full-Time Job,18,3.0,0.07%
+Ireland,No Full-Time Job,50,3.0,0.07%
+Italy,No Full-Time Job,59,3.0,0.07%
+Ireland,No Full-Time Job,59,3.0,0.07%
+Hungary,No Full-Time Job,22,3.0,0.07%
+France,Database Modeler,34,3.0,0.07%
+Italy,No Full-Time Job,57,3.0,0.07%
+France,Data Warehouse Analyst,49,3.0,0.07%
+Portugal,No Full-Time Job,48,3.0,0.07%
+Portugal,No Full-Time Job,45,3.0,0.07%
+Ireland,No Full-Time Job,32,3.0,0.07%
+Spain,No Full-Time Job,30,3.0,0.07%
+Portugal,No Full-Time Job,21,3.0,0.07%
+Spain,No Full-Time Job,38,3.0,0.07%
+Ireland,No Full-Time Job,16,3.0,0.07%
+Netherlands,No Full-Time Job,23,2.0,0.05%
+Netherlands,No Full-Time Job,54,2.0,0.05%
+Portugal,No Full-Time Job,22,2.0,0.05%
+Romania,No Full-Time Job,49,2.0,0.05%
 Ireland,No Full-Time Job,20,2.0,0.05%
 Ireland,No Full-Time Job,19,2.0,0.05%
-Finland,No Full-Time Job,33,2.0,0.05%
-Finland,No Full-Time Job,34,2.0,0.05%
-Cyprus,No Full-Time Job,16,2.0,0.05%
-Romania,No Full-Time Job,19,2.0,0.05%
+Poland,No Full-Time Job,64,2.0,0.05%
+Ireland,No Full-Time Job,56,2.0,0.05%
+Ireland,No Full-Time Job,57,2.0,0.05%
+Italy,Data Scientist,37,2.0,0.05%
+Italy,Data Warehouse Analyst,50,2.0,0.05%
+Italy,Data Coordinator,27,2.0,0.05%
+Netherlands,No Full-Time Job,38,2.0,0.05%
+Netherlands,No Full-Time Job,40,2.0,0.05%
+Romania,No Full-Time Job,60,2.0,0.05%
+Poland,Oracle Database Administrator (Oracle DBA),26,2.0,0.05%
+Netherlands,No Full-Time Job,42,2.0,0.05%
+Poland,No Full-Time Job,49,2.0,0.05%
+Hungary,No Full-Time Job,16,2.0,0.05%
+Portugal,No Full-Time Job,30,2.0,0.05%
+Italy,No Full-Time Job,63,2.0,0.05%
+Greece,No Full-Time Job,38,2.0,0.05%
+Hungary,No Full-Time Job,48,2.0,0.05%
+Greece,No Full-Time Job,42,2.0,0.05%
+Hungary,No Full-Time Job,34,2.0,0.05%
 Portugal,No Full-Time Job,50,2.0,0.05%
-Italy,Database Architect,34,2.0,0.05%
-Czechia,No Full-Time Job,42,2.0,0.05%
-Sweden,No Full-Time Job,40,2.0,0.05%
-Austria,No Full-Time Job,47,2.0,0.05%
-Sweden,No Full-Time Job,42,2.0,0.05%
-Czechia,No Full-Time Job,48,2.0,0.05%
-Czechia,No Full-Time Job,47,2.0,0.05%
-Sweden,No Full-Time Job,45,2.0,0.05%
-Czechia,No Full-Time Job,45,2.0,0.05%
-Austria,No Full-Time Job,36,2.0,0.05%
-Sweden,No Full-Time Job,22,2.0,0.05%
-Czechia,No Full-Time Job,39,2.0,0.05%
-Sweden,No Full-Time Job,48,2.0,0.05%
-Czechia,No Full-Time Job,29,2.0,0.05%
-Sweden,No Full-Time Job,51,2.0,0.05%
-Czechia,No Full-Time Job,21,2.0,0.05%
-Czechia,No Full-Time Job,16,2.0,0.05%
-Czechia,No Full-Time Job,14,2.0,0.05%
-Austria,No Full-Time Job,64,2.0,0.05%
-Sweden,No Full-Time Job,39,2.0,0.05%
-Poland,Database Tester,25,2.0,0.05%
-Denmark,No Full-Time Job,14,2.0,0.05%
-Sweden,No Full-Time Job,23,2.0,0.05%
-Italy,Database Architect,41,2.0,0.05%
-Austria,No Full-Time Job,25,2.0,0.05%
-Sweden,No Full-Time Job,24,2.0,0.05%
-Denmark,No Full-Time Job,33,2.0,0.05%
-Denmark,No Full-Time Job,31,2.0,0.05%
-Sweden,No Full-Time Job,26,2.0,0.05%
-Sweden,No Full-Time Job,27,2.0,0.05%
-Finland,No Full-Time Job,50,2.0,0.05%
-Denmark,No Full-Time Job,23,2.0,0.05%
+Greece,No Full-Time Job,49,2.0,0.05%
+Romania,No Full-Time Job,25,2.0,0.05%
+Hungary,No Full-Time Job,24,2.0,0.05%
+Portugal,No Full-Time Job,31,2.0,0.05%
+Greece,No Full-Time Job,57,2.0,0.05%
+Hungary,No Full-Time Job,23,2.0,0.05%
+Romania,No Full-Time Job,19,2.0,0.05%
+Portugal,No Full-Time Job,20,2.0,0.05%
+Poland,No Full-Time Job,40,2.0,0.05%
+Romania,No Full-Time Job,14,2.0,0.05%
+Romania,Geographic Information Systems Data Manager (GIS Data Manager),47,2.0,0.05%
+Hungary,No Full-Time Job,50,2.0,0.05%
+Greece,No Full-Time Job,35,2.0,0.05%
+Romania,No Full-Time Job,36,2.0,0.05%
 Portugal,No Full-Time Job,44,2.0,0.05%
-Austria,No Full-Time Job,27,2.0,0.05%
-Denmark,No Full-Time Job,21,2.0,0.05%
-Denmark,No Full-Time Job,17,2.0,0.05%
+Hungary,No Full-Time Job,14,2.0,0.05%
+Poland,Data Coordinator,40,2.0,0.05%
+Poland,Data Coordinator,44,2.0,0.05%
+Poland,Data Warehouse Analyst,44,2.0,0.05%
+Poland,Geographic Information Systems Data Manager (GIS Data Manager),45,2.0,0.05%
+Lithuania,No Full-Time Job,19,2.0,0.05%
 Portugal,No Full-Time Job,40,2.0,0.05%
 Hungary,No Full-Time Job,65,2.0,0.05%
-Portugal,No Full-Time Job,22,2.0,0.05%
-Romania,No Full-Time Job,36,2.0,0.05%
-Netherlands,No Full-Time Job,38,2.0,0.05%
-Spain,No Full-Time Job,14,2.0,0.05%
-Slovakia,No Full-Time Job,49,2.0,0.05%
-Bulgaria,No Full-Time Job,31,2.0,0.05%
-Bulgaria,No Full-Time Job,34,2.0,0.05%
-Bulgaria,No Full-Time Job,40,2.0,0.05%
-Greece,No Full-Time Job,31,2.0,0.05%
-Bulgaria,No Full-Time Job,52,2.0,0.05%
-Bulgaria,No Full-Time Job,65,2.0,0.05%
-Greece,No Full-Time Job,38,2.0,0.05%
-France,No Full-Time Job,64,2.0,0.05%
-Slovakia,No Full-Time Job,35,2.0,0.05%
-United Kingdom,Database Tester,49,2.0,0.05%
-United Kingdom,Database Tester,46,2.0,0.05%
-Greece,No Full-Time Job,42,2.0,0.05%
-Netherlands,No Full-Time Job,40,2.0,0.05%
-Poland,No Full-Time Job,64,2.0,0.05%
-Croatia,No Full-Time Job,23,2.0,0.05%
-Greece,No Full-Time Job,49,2.0,0.05%
-France,No Full-Time Job,56,2.0,0.05%
-Netherlands,No Full-Time Job,23,2.0,0.05%
-Netherlands,No Full-Time Job,42,2.0,0.05%
-Belgium,No Full-Time Job,44,2.0,0.05%
-Belgium,No Full-Time Job,24,2.0,0.05%
-Belgium,No Full-Time Job,30,2.0,0.05%
-Belgium,No Full-Time Job,22,2.0,0.05%
-Belgium,No Full-Time Job,31,2.0,0.05%
-Belgium,No Full-Time Job,21,2.0,0.05%
-Belgium,No Full-Time Job,32,2.0,0.05%
-Belgium,No Full-Time Job,20,2.0,0.05%
-Belgium,No Full-Time Job,43,2.0,0.05%
-Belgium,No Full-Time Job,45,2.0,0.05%
-Germany,Database Architect,48,2.0,0.05%
-Belgium,No Full-Time Job,46,2.0,0.05%
-Austria,No Full-Time Job,30,2.0,0.05%
-Belgium,No Full-Time Job,47,2.0,0.05%
-Belgium,No Full-Time Job,51,2.0,0.05%
-Germany,No Full-Time Job,62,2.0,0.05%
-Poland,No Full-Time Job,49,2.0,0.05%
-Slovenia,No Full-Time Job,23,2.0,0.05%
-Slovenia,No Full-Time Job,27,2.0,0.05%
-Finland,No Full-Time Job,51,2.0,0.05%
-Slovakia,No Full-Time Job,22,2.0,0.05%
-Croatia,No Full-Time Job,35,2.0,0.05%
-Hungary,No Full-Time Job,50,2.0,0.05%
-Hungary,No Full-Time Job,24,2.0,0.05%
-Spain,No Full-Time Job,31,2.0,0.05%
-Poland,No Full-Time Job,40,2.0,0.05%
-Hungary,No Full-Time Job,34,2.0,0.05%
-Portugal,No Full-Time Job,20,2.0,0.05%
-Netherlands,No Full-Time Job,54,2.0,0.05%
-Hungary,No Full-Time Job,48,2.0,0.05%
-Romania,No Full-Time Job,39,2.0,0.05%
-France,Database Architect,49,2.0,0.05%
-Hungary,No Full-Time Job,52,2.0,0.05%
-Belgium,No Full-Time Job,25,2.0,0.05%
-Hungary,No Full-Time Job,55,2.0,0.05%
-Croatia,No Full-Time Job,63,2.0,0.05%
-Hungary,No Full-Time Job,59,2.0,0.05%
 Hungary,No Full-Time Job,60,2.0,0.05%
+Romania,No Full-Time Job,39,2.0,0.05%
+Hungary,No Full-Time Job,59,2.0,0.05%
 Latvia,No Full-Time Job,30,2.0,0.05%
-Hungary,No Full-Time Job,23,2.0,0.05%
-Greece,No Full-Time Job,35,2.0,0.05%
-Romania,No Full-Time Job,49,2.0,0.05%
-France,Database Tester,33,2.0,0.05%
-Greece,No Full-Time Job,57,2.0,0.05%
-Lithuania,No Full-Time Job,19,2.0,0.05%
-Romania,No Full-Time Job,60,2.0,0.05%
-Croatia,No Full-Time Job,26,2.0,0.05%
-Hungary,No Full-Time Job,16,2.0,0.05%
-France,Database Tester,30,2.0,0.05%
-Hungary,No Full-Time Job,14,2.0,0.05%
+Hungary,No Full-Time Job,55,2.0,0.05%
+Hungary,No Full-Time Job,52,2.0,0.05%
+Greece,No Full-Time Job,31,2.0,0.05%
 Romania,No Full-Time Job,57,2.0,0.05%
+United Kingdom,Oracle Database Administrator (Oracle DBA),55,2.0,0.05%
+Sweden,No Full-Time Job,19,2.0,0.05%
+Sweden,No Full-Time Job,42,2.0,0.05%
+Germany,Data Coordinator,41,2.0,0.05%
+Sweden,No Full-Time Job,48,2.0,0.05%
+Spain,Data Coordinator,49,2.0,0.05%
+Czechia,No Full-Time Job,42,2.0,0.05%
+Czechia,No Full-Time Job,45,2.0,0.05%
+Czechia,No Full-Time Job,47,2.0,0.05%
+Czechia,No Full-Time Job,48,2.0,0.05%
+Sweden,No Full-Time Job,45,2.0,0.05%
+Spain,Data Coordinator,39,2.0,0.05%
+Spain,No Full-Time Job,31,2.0,0.05%
+France,Data Coordinator,20,2.0,0.05%
+France,Data Scientist,44,2.0,0.05%
+Finland,No Full-Time Job,51,2.0,0.05%
+Finland,No Full-Time Job,50,2.0,0.05%
+Finland,No Full-Time Job,34,2.0,0.05%
+Finland,No Full-Time Job,33,2.0,0.05%
+Spain,No Full-Time Job,58,2.0,0.05%
+Spain,No Full-Time Job,61,2.0,0.05%
+Germany,Data Scientist,36,2.0,0.05%
+Sweden,No Full-Time Job,39,2.0,0.05%
+Slovenia,No Full-Time Job,27,2.0,0.05%
+Bulgaria,No Full-Time Job,52,2.0,0.05%
+Czechia,No Full-Time Job,39,2.0,0.05%
+Bulgaria,No Full-Time Job,65,2.0,0.05%
+Bulgaria,No Full-Time Job,40,2.0,0.05%
+France,Oracle Database Administrator (Oracle DBA),35,2.0,0.05%
+Cyprus,No Full-Time Job,16,2.0,0.05%
+Croatia,No Full-Time Job,63,2.0,0.05%
+United Kingdom,Data Coordinator,39,2.0,0.05%
+France,Database Modeler,46,2.0,0.05%
+France,No Full-Time Job,56,2.0,0.05%
+Czechia,No Full-Time Job,14,2.0,0.05%
+France,No Full-Time Job,64,2.0,0.05%
+Croatia,No Full-Time Job,35,2.0,0.05%
+Spain,Data Warehouse Analyst,41,2.0,0.05%
+Czechia,No Full-Time Job,16,2.0,0.05%
 Croatia,No Full-Time Job,29,2.0,0.05%
-Portugal,Database Architect,29,1.0,0.02%
-Poland,Survey Data Technician,42,1.0,0.02%
-Portugal,No Full-Time Job,24,1.0,0.02%
-Portugal,No Full-Time Job,25,1.0,0.02%
-Portugal,Clinical Data Manager,49,1.0,0.02%
-Portugal,No Full-Time Job,23,1.0,0.02%
-Portugal,Database Architect,41,1.0,0.02%
-Portugal,No Full-Time Job,28,1.0,0.02%
-Portugal,No Full-Time Job,27,1.0,0.02%
-Portugal,Database Architect,43,1.0,0.02%
-Portugal,No Full-Time Job,14,1.0,0.02%
-Poland,No Full-Time Job,51,1.0,0.02%
-Poland,No Full-Time Job,47,1.0,0.02%
-Portugal,No Full-Time Job,33,1.0,0.02%
-Portugal,Data Collector,53,1.0,0.02%
-Portugal,No Full-Time Job,29,1.0,0.02%
-Portugal,Data Processing Services Sales Representative,58,1.0,0.02%
-United Kingdom,Database Architect,20,1.0,0.02%
-Portugal,No Full-Time Job,35,1.0,0.02%
-United Kingdom,Database Tester,44,1.0,0.02%
-United Kingdom,Naval Tactical Data System--Combat Information Center Officer,48,1.0,0.02%
-United Kingdom,Naval Tactical Data System--Combat Information Center Officer,43,1.0,0.02%
-United Kingdom,Naval Tactical Data System--Combat Information Center Officer,32,1.0,0.02%
-United Kingdom,Field Artillery Automated Tactical Data System Specialist,46,1.0,0.02%
-United Kingdom,Database Tester,55,1.0,0.02%
-United Kingdom,Database Tester,50,1.0,0.02%
-United Kingdom,Database Tester,42,1.0,0.02%
-Portugal,No Full-Time Job,42,1.0,0.02%
-United Kingdom,Database Tester,40,1.0,0.02%
-United Kingdom,Database Tester,39,1.0,0.02%
-United Kingdom,Database Tester,36,1.0,0.02%
-United Kingdom,Database Tester,34,1.0,0.02%
-United Kingdom,Database Tester,31,1.0,0.02%
-United Kingdom,Database Tester,27,1.0,0.02%
-United Kingdom,Naval Tactical Data System--Combat Information Center Officer,49,1.0,0.02%
-Spain,Naval Tactical Data System--Combat Information Center Officer,42,1.0,0.02%
-Spain,Naval Tactical Data System--Combat Information Center Officer,40,1.0,0.02%
-Spain,Naval Tactical Data System--Combat Information Center Officer,18,1.0,0.02%
-Spain,Field Artillery Automated Tactical Data System Specialist,41,1.0,0.02%
-Spain,Field Artillery Automated Tactical Data System Specialist,34,1.0,0.02%
-Spain,Database Tester,49,1.0,0.02%
-Spain,Database Tester,40,1.0,0.02%
-Spain,Database Tester,30,1.0,0.02%
-Spain,Database Architect,56,1.0,0.02%
-Spain,Database Architect,54,1.0,0.02%
-Spain,Database Architect,45,1.0,0.02%
-Spain,Database Architect,42,1.0,0.02%
-Spain,Database Architect,41,1.0,0.02%
-Spain,Database Architect,40,1.0,0.02%
-Spain,Database Architect,31,1.0,0.02%
-Spain,Database Architect,26,1.0,0.02%
-United Kingdom,Database Architect,54,1.0,0.02%
-United Kingdom,Database Architect,53,1.0,0.02%
-United Kingdom,Database Architect,48,1.0,0.02%
-Sweden,No Full-Time Job,41,1.0,0.02%
-United Kingdom,Data Processing Services Sales Representative,34,1.0,0.02%
-United Kingdom,Data Entry Clerk,43,1.0,0.02%
-United Kingdom,Data Collector,49,1.0,0.02%
-United Kingdom,Data Center Manager,41,1.0,0.02%
-United Kingdom,Clinical Data Manager,31,1.0,0.02%
-Sweden,Survey Data Technician,46,1.0,0.02%
+United Kingdom,Database Modeler,48,2.0,0.05%
+Croatia,No Full-Time Job,26,2.0,0.05%
+Croatia,No Full-Time Job,23,2.0,0.05%
+France,Database Modeler,42,2.0,0.05%
+Czechia,No Full-Time Job,21,2.0,0.05%
+Spain,Data Scientist,40,2.0,0.05%
+Spain,No Full-Time Job,14,2.0,0.05%
+Sweden,No Full-Time Job,17,2.0,0.05%
+Czechia,No Full-Time Job,29,2.0,0.05%
+United Kingdom,Database Modeler,44,2.0,0.05%
+Sweden,No Full-Time Job,51,2.0,0.05%
+Slovenia,No Full-Time Job,23,2.0,0.05%
+Sweden,No Full-Time Job,40,2.0,0.05%
+Germany,Geographic Information Systems Data Manager (GIS Data Manager),40,2.0,0.05%
+Sweden,No Full-Time Job,24,2.0,0.05%
+Denmark,No Full-Time Job,21,2.0,0.05%
+Belgium,No Full-Time Job,25,2.0,0.05%
+Belgium,No Full-Time Job,24,2.0,0.05%
+Sweden,No Full-Time Job,22,2.0,0.05%
+Slovakia,No Full-Time Job,22,2.0,0.05%
+Germany,Data Warehouse Analyst,40,2.0,0.05%
+Belgium,No Full-Time Job,22,2.0,0.05%
+Belgium,No Full-Time Job,21,2.0,0.05%
+Germany,Geographic Information Systems Data Manager (GIS Data Manager),41,2.0,0.05%
+Belgium,No Full-Time Job,20,2.0,0.05%
+United Kingdom,Oracle Database Administrator (Oracle DBA),28,2.0,0.05%
+Sweden,No Full-Time Job,23,2.0,0.05%
+Belgium,No Full-Time Job,14,2.0,0.05%
+Germany,No Full-Time Job,62,2.0,0.05%
+Austria,No Full-Time Job,64,2.0,0.05%
+Germany,Oracle Database Administrator (Oracle DBA),30,2.0,0.05%
+Austria,No Full-Time Job,47,2.0,0.05%
+Germany,Oracle Database Administrator (Oracle DBA),42,2.0,0.05%
+Austria,No Full-Time Job,36,2.0,0.05%
+Denmark,No Full-Time Job,23,2.0,0.05%
+Germany,Oracle Database Administrator (Oracle DBA),33,2.0,0.05%
+Austria,No Full-Time Job,30,2.0,0.05%
+Austria,No Full-Time Job,25,2.0,0.05%
+Belgium,No Full-Time Job,26,2.0,0.05%
+Belgium,No Full-Time Job,30,2.0,0.05%
+Denmark,No Full-Time Job,31,2.0,0.05%
+Netherlands,No Full-Time Job,61,2.0,0.05%
+Denmark,No Full-Time Job,33,2.0,0.05%
+Sweden,No Full-Time Job,27,2.0,0.05%
+Bulgaria,No Full-Time Job,34,2.0,0.05%
+Bulgaria,No Full-Time Job,31,2.0,0.05%
+Belgium,No Full-Time Job,51,2.0,0.05%
+Belgium,No Full-Time Job,47,2.0,0.05%
+Belgium,No Full-Time Job,46,2.0,0.05%
+Belgium,No Full-Time Job,45,2.0,0.05%
+Belgium,No Full-Time Job,31,2.0,0.05%
+Austria,No Full-Time Job,27,2.0,0.05%
+Slovakia,No Full-Time Job,49,2.0,0.05%
+Belgium,No Full-Time Job,44,2.0,0.05%
+Belgium,No Full-Time Job,43,2.0,0.05%
+Belgium,No Full-Time Job,32,2.0,0.05%
+Sweden,No Full-Time Job,26,2.0,0.05%
+Denmark,No Full-Time Job,14,2.0,0.05%
+Denmark,No Full-Time Job,17,2.0,0.05%
+Slovakia,No Full-Time Job,35,2.0,0.05%
+United Kingdom,Data Coordinator,37,1.0,0.02%
+United Kingdom,Data Coordinator,41,1.0,0.02%
+United Kingdom,Data Coordinator,46,1.0,0.02%
+United Kingdom,Data Coordinator,29,1.0,0.02%
+Sweden,No Full-Time Job,21,1.0,0.02%
+Sweden,Oracle Database Administrator (Oracle DBA),35,1.0,0.02%
+Sweden,No Full-Time Job,30,1.0,0.02%
 Sweden,No Full-Time Job,65,1.0,0.02%
 Sweden,No Full-Time Job,61,1.0,0.02%
 Sweden,No Full-Time Job,57,1.0,0.02%
@@ -629,163 +601,235 @@ Sweden,No Full-Time Job,52,1.0,0.02%
 Sweden,No Full-Time Job,49,1.0,0.02%
 Sweden,No Full-Time Job,46,1.0,0.02%
 Sweden,No Full-Time Job,43,1.0,0.02%
+Sweden,No Full-Time Job,41,1.0,0.02%
+United Kingdom,Data Entry Representative,41,1.0,0.02%
 Sweden,No Full-Time Job,35,1.0,0.02%
-United Kingdom,Database Architect,47,1.0,0.02%
 Sweden,No Full-Time Job,33,1.0,0.02%
-Sweden,No Full-Time Job,30,1.0,0.02%
 Sweden,No Full-Time Job,29,1.0,0.02%
-Sweden,No Full-Time Job,21,1.0,0.02%
-Sweden,Naval Tactical Data System--Combat Information Center Officer,27,1.0,0.02%
-Sweden,Database Tester,49,1.0,0.02%
-Sweden,Database Architect,55,1.0,0.02%
-Spain,Survey Data Technician,19,1.0,0.02%
-Spain,No Full-Time Job,65,1.0,0.02%
-Spain,No Full-Time Job,62,1.0,0.02%
-Spain,No Full-Time Job,56,1.0,0.02%
-United Kingdom,Database Architect,31,1.0,0.02%
-United Kingdom,Database Architect,35,1.0,0.02%
-United Kingdom,Database Architect,42,1.0,0.02%
-Spain,Data Collector,25,1.0,0.02%
-Spain,Clinical Data Manager,59,1.0,0.02%
-Spain,Clinical Data Manager,46,1.0,0.02%
-Romania,Database Tester,29,1.0,0.02%
-Romania,No Full-Time Job,35,1.0,0.02%
-Romania,No Full-Time Job,30,1.0,0.02%
-Romania,No Full-Time Job,29,1.0,0.02%
-Romania,No Full-Time Job,28,1.0,0.02%
-Romania,No Full-Time Job,24,1.0,0.02%
+United Kingdom,Data Entry Machine Operator,45,1.0,0.02%
+Slovakia,Data Scientist,49,1.0,0.02%
+United Kingdom,Data Reviewer,31,1.0,0.02%
+United Kingdom,Data Reviewer,34,1.0,0.02%
+Poland,Data Warehouse Analyst,42,1.0,0.02%
+Poland,Data Warehouse Analyst,40,1.0,0.02%
+Poland,Data Warehouse Analyst,38,1.0,0.02%
+Poland,Data Warehouse Analyst,25,1.0,0.02%
+Poland,Data Scientist,55,1.0,0.02%
+Poland,Data Scientist,54,1.0,0.02%
+Poland,Data Reviewer,41,1.0,0.02%
+Poland,Data Entry Representative,45,1.0,0.02%
+Poland,Data Coordinator,53,1.0,0.02%
+Poland,Data Coordinator,47,1.0,0.02%
+United Kingdom,Database Modeler,55,1.0,0.02%
+United Kingdom,Geographic Information Systems Data Manager (GIS Data Manager),32,1.0,0.02%
+Poland,Data Coordinator,35,1.0,0.02%
+United Kingdom,Geographic Information Systems Data Manager (GIS Data Manager),37,1.0,0.02%
+United Kingdom,Geographic Information Systems Data Manager (GIS Data Manager),49,1.0,0.02%
+United Kingdom,Geographic Information Systems Data Manager (GIS Data Manager),53,1.0,0.02%
+Poland,Data Coordinator,30,1.0,0.02%
+Poland,Clinical Data Abstractor,40,1.0,0.02%
+Poland,Clinical Data Abstractor,21,1.0,0.02%
+Netherlands,Oracle Database Administrator (Oracle DBA),58,1.0,0.02%
+Netherlands,Oracle Database Administrator (Oracle DBA),43,1.0,0.02%
+Netherlands,Oracle Database Administrator (Oracle DBA),27,1.0,0.02%
+United Kingdom,Oracle Database Administrator (Oracle DBA),20,1.0,0.02%
+United Kingdom,Oracle Database Administrator (Oracle DBA),30,1.0,0.02%
+United Kingdom,Oracle Database Administrator (Oracle DBA),40,1.0,0.02%
+United Kingdom,Oracle Database Administrator (Oracle DBA),45,1.0,0.02%
+United Kingdom,Oracle Database Administrator (Oracle DBA),53,1.0,0.02%
+United Kingdom,Database Modeler,53,1.0,0.02%
+Poland,Data Warehouse Analyst,50,1.0,0.02%
+Poland,Data Warehouse Analyst,51,1.0,0.02%
+United Kingdom,Data Warehouse Analyst,42,1.0,0.02%
+United Kingdom,Data Scientist,22,1.0,0.02%
+United Kingdom,Data Scientist,29,1.0,0.02%
+United Kingdom,Data Scientist,30,1.0,0.02%
+United Kingdom,Data Scientist,35,1.0,0.02%
+United Kingdom,Data Scientist,36,1.0,0.02%
+United Kingdom,Data Scientist,45,1.0,0.02%
+United Kingdom,Data Scientist,50,1.0,0.02%
+United Kingdom,Data Scientist,59,1.0,0.02%
+United Kingdom,Data Warehouse Analyst,26,1.0,0.02%
+United Kingdom,Data Warehouse Analyst,30,1.0,0.02%
+United Kingdom,Data Warehouse Analyst,34,1.0,0.02%
+United Kingdom,Data Warehouse Analyst,39,1.0,0.02%
+United Kingdom,Data Warehouse Analyst,50,1.0,0.02%
+Poland,Database Modeler,25,1.0,0.02%
+United Kingdom,Data Warehouse Analyst,52,1.0,0.02%
+United Kingdom,Data Warehouse Analyst,60,1.0,0.02%
+United Kingdom,Database Modeler,36,1.0,0.02%
+United Kingdom,Database Modeler,46,1.0,0.02%
+Poland,Geographic Information Systems Data Manager (GIS Data Manager),47,1.0,0.02%
+United Kingdom,Database Modeler,50,1.0,0.02%
+Poland,Geographic Information Systems Data Manager (GIS Data Manager),32,1.0,0.02%
+Poland,Geographic Information Systems Data Manager (GIS Data Manager),31,1.0,0.02%
+Poland,Geographic Information Systems Data Manager (GIS Data Manager),30,1.0,0.02%
+Poland,Database Modeler,54,1.0,0.02%
+Poland,Database Modeler,45,1.0,0.02%
+Poland,Database Modeler,28,1.0,0.02%
+United Kingdom,Database Modeler,28,1.0,0.02%
+Spain,Oracle Database Administrator (Oracle DBA),28,1.0,0.02%
+Sweden,Geographic Information Systems Data Manager (GIS Data Manager),41,1.0,0.02%
+Slovenia,Database Modeler,29,1.0,0.02%
+Romania,Data Coordinator,41,1.0,0.02%
+Romania,Data Entry Representative,40,1.0,0.02%
+Romania,Data Warehouse Analyst,28,1.0,0.02%
+Romania,Data Warehouse Analyst,50,1.0,0.02%
+Romania,Database Modeler,27,1.0,0.02%
+Spain,Data Coordinator,25,1.0,0.02%
+Spain,Clinical Data Abstractor,51,1.0,0.02%
 Romania,No Full-Time Job,15,1.0,0.02%
-Romania,Naval Tactical Data System--Combat Information Center Officer,27,1.0,0.02%
-Romania,Field Artillery Automated Tactical Data System Specialist,43,1.0,0.02%
-Romania,Field Artillery Automated Tactical Data System Specialist,17,1.0,0.02%
-Romania,Database Tester,55,1.0,0.02%
-Romania,Database Tester,54,1.0,0.02%
-Romania,Database Tester,45,1.0,0.02%
-Romania,Database Tester,36,1.0,0.02%
-Romania,Database Tester,30,1.0,0.02%
-Romania,Database Architect,57,1.0,0.02%
-Romania,No Full-Time Job,38,1.0,0.02%
-Romania,Database Architect,44,1.0,0.02%
-Romania,Database Architect,35,1.0,0.02%
-Romania,Database Architect,22,1.0,0.02%
-Romania,Data Entry Clerk,43,1.0,0.02%
-Romania,Clinical Data Manager,33,1.0,0.02%
-Romania,Clinical Data Manager,28,1.0,0.02%
-Portugal,No Full-Time Job,65,1.0,0.02%
-Portugal,No Full-Time Job,62,1.0,0.02%
-Portugal,No Full-Time Job,61,1.0,0.02%
-Portugal,No Full-Time Job,59,1.0,0.02%
-Portugal,No Full-Time Job,53,1.0,0.02%
-Portugal,No Full-Time Job,52,1.0,0.02%
-Portugal,No Full-Time Job,47,1.0,0.02%
-Portugal,No Full-Time Job,43,1.0,0.02%
-Romania,No Full-Time Job,37,1.0,0.02%
-Romania,No Full-Time Job,41,1.0,0.02%
 Slovenia,No Full-Time Job,36,1.0,0.02%
-Slovakia,No Full-Time Job,37,1.0,0.02%
 Slovenia,No Full-Time Job,26,1.0,0.02%
 Slovenia,No Full-Time Job,25,1.0,0.02%
 Slovenia,No Full-Time Job,24,1.0,0.02%
 Slovenia,No Full-Time Job,20,1.0,0.02%
+Romania,No Full-Time Job,24,1.0,0.02%
 Slovenia,No Full-Time Job,19,1.0,0.02%
+Romania,Data Coordinator,30,1.0,0.02%
+Romania,Data Coordinator,28,1.0,0.02%
+Portugal,Oracle Database Administrator (Oracle DBA),45,1.0,0.02%
+Portugal,No Full-Time Job,59,1.0,0.02%
+Spain,Data Entry Representative,65,1.0,0.02%
+Spain,Data Entry Machine Operator,45,1.0,0.02%
+Spain,Data Entry Machine Operator,40,1.0,0.02%
+Spain,Data Entry Machine Operator,36,1.0,0.02%
+Portugal,No Full-Time Job,52,1.0,0.02%
+Portugal,No Full-Time Job,53,1.0,0.02%
+Spain,Data Coordinator,60,1.0,0.02%
+Spain,Data Coordinator,28,1.0,0.02%
+Spain,Data Coordinator,45,1.0,0.02%
+Portugal,No Full-Time Job,61,1.0,0.02%
+Spain,Data Coordinator,44,1.0,0.02%
+Portugal,No Full-Time Job,62,1.0,0.02%
+Portugal,No Full-Time Job,65,1.0,0.02%
+Spain,Data Coordinator,42,1.0,0.02%
 Slovenia,No Full-Time Job,16,1.0,0.02%
-Slovakia,No Full-Time Job,65,1.0,0.02%
-Slovakia,No Full-Time Job,61,1.0,0.02%
-Slovakia,No Full-Time Job,60,1.0,0.02%
-Slovakia,No Full-Time Job,45,1.0,0.02%
-Slovakia,No Full-Time Job,43,1.0,0.02%
-Slovakia,No Full-Time Job,41,1.0,0.02%
-Slovakia,No Full-Time Job,40,1.0,0.02%
-United Kingdom,Database Architect,19,1.0,0.02%
-Slovakia,No Full-Time Job,32,1.0,0.02%
-Romania,No Full-Time Job,42,1.0,0.02%
-Slovakia,No Full-Time Job,26,1.0,0.02%
-Slovakia,No Full-Time Job,25,1.0,0.02%
-Slovakia,No Full-Time Job,24,1.0,0.02%
-Slovakia,No Full-Time Job,23,1.0,0.02%
+Romania,No Full-Time Job,28,1.0,0.02%
+Spain,Data Reviewer,36,1.0,0.02%
+Romania,No Full-Time Job,29,1.0,0.02%
 Slovakia,No Full-Time Job,20,1.0,0.02%
 Slovakia,No Full-Time Job,17,1.0,0.02%
 Slovakia,No Full-Time Job,15,1.0,0.02%
 Slovakia,No Full-Time Job,14,1.0,0.02%
-Slovakia,Database Tester,40,1.0,0.02%
-Romania,No Full-Time Job,59,1.0,0.02%
-Romania,No Full-Time Job,58,1.0,0.02%
-Romania,No Full-Time Job,55,1.0,0.02%
-Romania,No Full-Time Job,48,1.0,0.02%
 Romania,No Full-Time Job,46,1.0,0.02%
-Austria,Database Architect,47,1.0,0.02%
-Italy,Database Tester,25,1.0,0.02%
-Poland,Naval Tactical Data System--Combat Information Center Officer,50,1.0,0.02%
-Denmark,No Full-Time Job,39,1.0,0.02%
-Denmark,No Full-Time Job,48,1.0,0.02%
-Denmark,No Full-Time Job,49,1.0,0.02%
-Denmark,No Full-Time Job,52,1.0,0.02%
-Denmark,No Full-Time Job,59,1.0,0.02%
-Denmark,No Full-Time Job,64,1.0,0.02%
-Denmark,Survey Data Technician,56,1.0,0.02%
-Denmark,Survey Data Technician,63,1.0,0.02%
-Estonia,No Full-Time Job,14,1.0,0.02%
-Estonia,No Full-Time Job,16,1.0,0.02%
-Estonia,No Full-Time Job,17,1.0,0.02%
-Estonia,No Full-Time Job,22,1.0,0.02%
-Estonia,No Full-Time Job,26,1.0,0.02%
+Romania,No Full-Time Job,48,1.0,0.02%
+Slovakia,Geographic Information Systems Data Manager (GIS Data Manager),37,1.0,0.02%
+Slovakia,Data Warehouse Analyst,43,1.0,0.02%
+Romania,No Full-Time Job,55,1.0,0.02%
+Romania,No Full-Time Job,58,1.0,0.02%
+Romania,No Full-Time Job,59,1.0,0.02%
+Slovakia,Data Scientist,51,1.0,0.02%
+Romania,Oracle Database Administrator (Oracle DBA),34,1.0,0.02%
+Romania,Oracle Database Administrator (Oracle DBA),39,1.0,0.02%
+Slovakia,Data Reviewer,32,1.0,0.02%
+Romania,No Full-Time Job,42,1.0,0.02%
+Romania,No Full-Time Job,41,1.0,0.02%
+Slovakia,No Full-Time Job,23,1.0,0.02%
+Slovakia,No Full-Time Job,40,1.0,0.02%
+Slovakia,No Full-Time Job,65,1.0,0.02%
+Romania,No Full-Time Job,30,1.0,0.02%
+Slovakia,No Full-Time Job,61,1.0,0.02%
+Slovakia,No Full-Time Job,45,1.0,0.02%
+Slovakia,No Full-Time Job,43,1.0,0.02%
+Slovakia,No Full-Time Job,41,1.0,0.02%
+Romania,No Full-Time Job,35,1.0,0.02%
+Romania,No Full-Time Job,38,1.0,0.02%
+Slovakia,No Full-Time Job,37,1.0,0.02%
+Slovakia,No Full-Time Job,32,1.0,0.02%
+Slovakia,No Full-Time Job,26,1.0,0.02%
+Slovakia,No Full-Time Job,25,1.0,0.02%
+Romania,No Full-Time Job,37,1.0,0.02%
+Slovakia,No Full-Time Job,24,1.0,0.02%
+Portugal,No Full-Time Job,47,1.0,0.02%
+Spain,Data Scientist,23,1.0,0.02%
+Sweden,Database Modeler,57,1.0,0.02%
+Spain,Geographic Information Systems Data Manager (GIS Data Manager),59,1.0,0.02%
+Spain,No Full-Time Job,56,1.0,0.02%
+Poland,Oracle Database Administrator (Oracle DBA),25,1.0,0.02%
+Poland,Oracle Database Administrator (Oracle DBA),30,1.0,0.02%
+Poland,Oracle Database Administrator (Oracle DBA),40,1.0,0.02%
+Poland,Oracle Database Administrator (Oracle DBA),47,1.0,0.02%
+Poland,Oracle Database Administrator (Oracle DBA),56,1.0,0.02%
+Portugal,Data Coordinator,21,1.0,0.02%
+Portugal,Data Coordinator,37,1.0,0.02%
+Portugal,Data Coordinator,45,1.0,0.02%
+Portugal,Data Coordinator,49,1.0,0.02%
+Portugal,Data Coordinator,50,1.0,0.02%
+Portugal,Data Coordinator,56,1.0,0.02%
+Portugal,Data Entry Machine Operator,50,1.0,0.02%
+Portugal,Data Scientist,39,1.0,0.02%
+Portugal,Data Scientist,44,1.0,0.02%
+Spain,No Full-Time Job,62,1.0,0.02%
+Spain,No Full-Time Job,65,1.0,0.02%
+Slovakia,Data Scientist,48,1.0,0.02%
+Sweden,Data Coordinator,44,1.0,0.02%
+Sweden,Database Modeler,25,1.0,0.02%
+Sweden,Data Warehouse Analyst,31,1.0,0.02%
+Sweden,Data Scientist,41,1.0,0.02%
+Sweden,Data Scientist,35,1.0,0.02%
+Poland,No Full-Time Job,47,1.0,0.02%
+Sweden,Data Entry Representative,15,1.0,0.02%
+Sweden,Data Coordinator,42,1.0,0.02%
+Spain,Oracle Database Administrator (Oracle DBA),34,1.0,0.02%
+Spain,Oracle Database Administrator (Oracle DBA),61,1.0,0.02%
+Spain,Oracle Database Administrator (Oracle DBA),59,1.0,0.02%
+Poland,No Full-Time Job,51,1.0,0.02%
+Spain,Oracle Database Administrator (Oracle DBA),43,1.0,0.02%
+Spain,Oracle Database Administrator (Oracle DBA),42,1.0,0.02%
+Spain,Oracle Database Administrator (Oracle DBA),37,1.0,0.02%
+Portugal,Data Scientist,45,1.0,0.02%
+Portugal,Data Scientist,52,1.0,0.02%
+Spain,Data Scientist,27,1.0,0.02%
+Spain,Geographic Information Systems Data Manager (GIS Data Manager),54,1.0,0.02%
+Spain,Database Modeler,49,1.0,0.02%
+Spain,Database Modeler,40,1.0,0.02%
+Portugal,No Full-Time Job,33,1.0,0.02%
+Portugal,No Full-Time Job,35,1.0,0.02%
+Spain,Data Warehouse Analyst,40,1.0,0.02%
+Spain,Data Warehouse Analyst,36,1.0,0.02%
+Spain,Data Warehouse Analyst,35,1.0,0.02%
+Spain,Data Warehouse Analyst,32,1.0,0.02%
+Portugal,No Full-Time Job,42,1.0,0.02%
+Spain,Data Warehouse Analyst,30,1.0,0.02%
+Spain,Data Warehouse Analyst,29,1.0,0.02%
+Spain,Data Scientist,51,1.0,0.02%
+Spain,Data Scientist,47,1.0,0.02%
+Portugal,No Full-Time Job,43,1.0,0.02%
+Spain,Data Scientist,35,1.0,0.02%
+Portugal,No Full-Time Job,29,1.0,0.02%
+Spain,Geographic Information Systems Data Manager (GIS Data Manager),28,1.0,0.02%
+Spain,Geographic Information Systems Data Manager (GIS Data Manager),30,1.0,0.02%
+Spain,Geographic Information Systems Data Manager (GIS Data Manager),42,1.0,0.02%
+Portugal,Data Warehouse Analyst,47,1.0,0.02%
+Portugal,Data Warehouse Analyst,54,1.0,0.02%
+Portugal,Geographic Information Systems Data Manager (GIS Data Manager),36,1.0,0.02%
+Portugal,No Full-Time Job,14,1.0,0.02%
+Spain,Geographic Information Systems Data Manager (GIS Data Manager),45,1.0,0.02%
+Spain,Geographic Information Systems Data Manager (GIS Data Manager),44,1.0,0.02%
+Spain,Geographic Information Systems Data Manager (GIS Data Manager),40,1.0,0.02%
+Spain,Geographic Information Systems Data Manager (GIS Data Manager),34,1.0,0.02%
+Spain,Geographic Information Systems Data Manager (GIS Data Manager),38,1.0,0.02%
+Portugal,No Full-Time Job,23,1.0,0.02%
+Portugal,No Full-Time Job,24,1.0,0.02%
+Portugal,No Full-Time Job,25,1.0,0.02%
+Portugal,No Full-Time Job,27,1.0,0.02%
+Portugal,No Full-Time Job,28,1.0,0.02%
+Slovakia,No Full-Time Job,60,1.0,0.02%
+Austria,Data Coordinator,45,1.0,0.02%
+Netherlands,No Full-Time Job,53,1.0,0.02%
 Estonia,No Full-Time Job,28,1.0,0.02%
-Estonia,No Full-Time Job,30,1.0,0.02%
 Estonia,No Full-Time Job,43,1.0,0.02%
-Finland,Database Tester,29,1.0,0.02%
-Finland,Database Tester,30,1.0,0.02%
-Finland,Field Artillery Automated Tactical Data System Specialist,44,1.0,0.02%
-Finland,Naval Tactical Data System--Combat Information Center Officer,21,1.0,0.02%
-Denmark,No Full-Time Job,43,1.0,0.02%
-Denmark,No Full-Time Job,37,1.0,0.02%
-Poland,Field Artillery Automated Tactical Data System Specialist,25,1.0,0.02%
-Denmark,No Full-Time Job,36,1.0,0.02%
-Czechia,No Full-Time Job,33,1.0,0.02%
-Czechia,No Full-Time Job,34,1.0,0.02%
-Czechia,No Full-Time Job,36,1.0,0.02%
-Czechia,No Full-Time Job,41,1.0,0.02%
-Czechia,No Full-Time Job,46,1.0,0.02%
-Czechia,No Full-Time Job,55,1.0,0.02%
-Czechia,No Full-Time Job,57,1.0,0.02%
-Czechia,No Full-Time Job,58,1.0,0.02%
-Czechia,No Full-Time Job,60,1.0,0.02%
-Czechia,No Full-Time Job,61,1.0,0.02%
-Czechia,No Full-Time Job,63,1.0,0.02%
-Czechia,No Full-Time Job,64,1.0,0.02%
-Denmark,Clinical Data Manager,27,1.0,0.02%
-Denmark,Database Tester,36,1.0,0.02%
-Denmark,Database Tester,42,1.0,0.02%
-Denmark,No Full-Time Job,16,1.0,0.02%
-Denmark,No Full-Time Job,18,1.0,0.02%
-Denmark,No Full-Time Job,27,1.0,0.02%
-Denmark,No Full-Time Job,28,1.0,0.02%
+Finland,Data Coordinator,24,1.0,0.02%
+Finland,Data Coordinator,39,1.0,0.02%
+Finland,Data Coordinator,43,1.0,0.02%
+Finland,Data Entry Representative,40,1.0,0.02%
+Finland,Data Scientist,44,1.0,0.02%
+Finland,Geographic Information Systems Data Manager (GIS Data Manager),57,1.0,0.02%
 Finland,No Full-Time Job,14,1.0,0.02%
 Finland,No Full-Time Job,15,1.0,0.02%
 Finland,No Full-Time Job,19,1.0,0.02%
 Finland,No Full-Time Job,24,1.0,0.02%
-France,Database Architect,19,1.0,0.02%
-France,Database Architect,24,1.0,0.02%
-France,Database Architect,30,1.0,0.02%
-France,Database Architect,38,1.0,0.02%
-France,Database Architect,41,1.0,0.02%
-France,Database Architect,44,1.0,0.02%
-France,Database Architect,46,1.0,0.02%
-France,Database Architect,50,1.0,0.02%
-France,Database Tester,39,1.0,0.02%
-France,Database Tester,40,1.0,0.02%
-France,Database Tester,41,1.0,0.02%
-France,Database Tester,42,1.0,0.02%
-France,Database Tester,43,1.0,0.02%
-France,Database Tester,44,1.0,0.02%
-France,Database Tester,59,1.0,0.02%
-France,Naval Tactical Data System--Combat Information Center Officer,28,1.0,0.02%
-France,Naval Tactical Data System--Combat Information Center Officer,43,1.0,0.02%
-France,No Full-Time Job,54,1.0,0.02%
-France,Survey Data Technician,35,1.0,0.02%
-France,Database Architect,17,1.0,0.02%
-France,Data Entry Clerk,56,1.0,0.02%
-France,Data Entry Clerk,53,1.0,0.02%
-Finland,No Full-Time Job,57,1.0,0.02%
 Finland,No Full-Time Job,31,1.0,0.02%
 Finland,No Full-Time Job,32,1.0,0.02%
 Finland,No Full-Time Job,35,1.0,0.02%
@@ -794,23 +838,107 @@ Finland,No Full-Time Job,47,1.0,0.02%
 Finland,No Full-Time Job,52,1.0,0.02%
 Finland,No Full-Time Job,53,1.0,0.02%
 Finland,No Full-Time Job,56,1.0,0.02%
+Finland,No Full-Time Job,57,1.0,0.02%
 Finland,No Full-Time Job,58,1.0,0.02%
-France,Data Entry Clerk,45,1.0,0.02%
 Finland,No Full-Time Job,59,1.0,0.02%
 Finland,No Full-Time Job,61,1.0,0.02%
 Finland,No Full-Time Job,62,1.0,0.02%
 Finland,No Full-Time Job,64,1.0,0.02%
-France,Clinical Data Manager,29,1.0,0.02%
-France,Clinical Data Manager,57,1.0,0.02%
-France,Data Collector,50,1.0,0.02%
-France,Data Entry Clerk,40,1.0,0.02%
-Czechia,No Full-Time Job,28,1.0,0.02%
-Czechia,No Full-Time Job,27,1.0,0.02%
-Czechia,No Full-Time Job,19,1.0,0.02%
-Bulgaria,No Full-Time Job,16,1.0,0.02%
-Belgium,Database Tester,36,1.0,0.02%
-Belgium,Database Tester,39,1.0,0.02%
-Belgium,Field Artillery Automated Tactical Data System Specialist,48,1.0,0.02%
+Estonia,No Full-Time Job,30,1.0,0.02%
+Estonia,No Full-Time Job,26,1.0,0.02%
+Finland,Oracle Database Administrator (Oracle DBA),59,1.0,0.02%
+Estonia,No Full-Time Job,22,1.0,0.02%
+Czechia,Oracle Database Administrator (Oracle DBA),51,1.0,0.02%
+Denmark,Data Coordinator,45,1.0,0.02%
+Denmark,Data Coordinator,50,1.0,0.02%
+Denmark,Data Scientist,25,1.0,0.02%
+Denmark,Data Warehouse Analyst,20,1.0,0.02%
+Denmark,Database Modeler,47,1.0,0.02%
+Denmark,No Full-Time Job,16,1.0,0.02%
+Denmark,No Full-Time Job,18,1.0,0.02%
+Denmark,No Full-Time Job,27,1.0,0.02%
+Denmark,No Full-Time Job,28,1.0,0.02%
+Denmark,No Full-Time Job,36,1.0,0.02%
+Denmark,No Full-Time Job,37,1.0,0.02%
+Denmark,No Full-Time Job,39,1.0,0.02%
+Denmark,No Full-Time Job,43,1.0,0.02%
+Denmark,No Full-Time Job,48,1.0,0.02%
+Denmark,No Full-Time Job,49,1.0,0.02%
+Denmark,No Full-Time Job,52,1.0,0.02%
+Denmark,No Full-Time Job,59,1.0,0.02%
+Denmark,No Full-Time Job,64,1.0,0.02%
+Denmark,Oracle Database Administrator (Oracle DBA),39,1.0,0.02%
+Denmark,Oracle Database Administrator (Oracle DBA),41,1.0,0.02%
+Denmark,Oracle Database Administrator (Oracle DBA),48,1.0,0.02%
+Estonia,No Full-Time Job,14,1.0,0.02%
+Estonia,No Full-Time Job,16,1.0,0.02%
+Estonia,No Full-Time Job,17,1.0,0.02%
+Finland,Oracle Database Administrator (Oracle DBA),35,1.0,0.02%
+France,Data Coordinator,21,1.0,0.02%
+Czechia,Oracle Database Administrator (Oracle DBA),38,1.0,0.02%
+France,Database Modeler,40,1.0,0.02%
+France,Database Modeler,50,1.0,0.02%
+France,Database Modeler,51,1.0,0.02%
+France,Database Modeler,55,1.0,0.02%
+France,Geographic Information Systems Data Manager (GIS Data Manager),32,1.0,0.02%
+France,Geographic Information Systems Data Manager (GIS Data Manager),33,1.0,0.02%
+France,Geographic Information Systems Data Manager (GIS Data Manager),41,1.0,0.02%
+France,Geographic Information Systems Data Manager (GIS Data Manager),43,1.0,0.02%
+France,Geographic Information Systems Data Manager (GIS Data Manager),54,1.0,0.02%
+France,Geographic Information Systems Data Manager (GIS Data Manager),57,1.0,0.02%
+France,No Full-Time Job,54,1.0,0.02%
+France,Oracle Database Administrator (Oracle DBA),19,1.0,0.02%
+France,Oracle Database Administrator (Oracle DBA),25,1.0,0.02%
+France,Oracle Database Administrator (Oracle DBA),32,1.0,0.02%
+France,Oracle Database Administrator (Oracle DBA),34,1.0,0.02%
+France,Oracle Database Administrator (Oracle DBA),36,1.0,0.02%
+France,Oracle Database Administrator (Oracle DBA),42,1.0,0.02%
+France,Oracle Database Administrator (Oracle DBA),44,1.0,0.02%
+France,Oracle Database Administrator (Oracle DBA),45,1.0,0.02%
+France,Oracle Database Administrator (Oracle DBA),52,1.0,0.02%
+France,Oracle Database Administrator (Oracle DBA),53,1.0,0.02%
+Germany,Clinical Data Abstractor,28,1.0,0.02%
+Germany,Clinical Data Abstractor,33,1.0,0.02%
+Germany,Clinical Data Abstractor,47,1.0,0.02%
+Germany,Clinical Data Abstractor,48,1.0,0.02%
+Germany,Data Coordinator,19,1.0,0.02%
+France,Database Modeler,43,1.0,0.02%
+France,Database Modeler,39,1.0,0.02%
+France,Data Coordinator,25,1.0,0.02%
+France,Data Warehouse Analyst,58,1.0,0.02%
+France,Data Coordinator,33,1.0,0.02%
+France,Data Coordinator,35,1.0,0.02%
+France,Data Coordinator,36,1.0,0.02%
+France,Data Coordinator,39,1.0,0.02%
+France,Data Coordinator,41,1.0,0.02%
+France,Data Coordinator,45,1.0,0.02%
+France,Data Coordinator,46,1.0,0.02%
+France,Data Coordinator,58,1.0,0.02%
+France,Data Entry Machine Operator,34,1.0,0.02%
+France,Data Entry Machine Operator,48,1.0,0.02%
+France,Data Entry Representative,25,1.0,0.02%
+France,Data Entry Representative,41,1.0,0.02%
+France,Data Entry Representative,51,1.0,0.02%
+France,Data Entry Representative,58,1.0,0.02%
+France,Data Scientist,16,1.0,0.02%
+France,Data Scientist,21,1.0,0.02%
+France,Data Scientist,39,1.0,0.02%
+France,Data Scientist,43,1.0,0.02%
+France,Data Scientist,48,1.0,0.02%
+France,Data Warehouse Analyst,28,1.0,0.02%
+France,Data Warehouse Analyst,29,1.0,0.02%
+France,Data Warehouse Analyst,35,1.0,0.02%
+France,Data Warehouse Analyst,38,1.0,0.02%
+France,Data Warehouse Analyst,40,1.0,0.02%
+France,Data Warehouse Analyst,51,1.0,0.02%
+Czechia,Oracle Database Administrator (Oracle DBA),41,1.0,0.02%
+Czechia,No Full-Time Job,64,1.0,0.02%
+Netherlands,No Full-Time Job,49,1.0,0.02%
+Belgium,Data Scientist,43,1.0,0.02%
+Belgium,Data Warehouse Analyst,45,1.0,0.02%
+Belgium,Geographic Information Systems Data Manager (GIS Data Manager),25,1.0,0.02%
+Belgium,Geographic Information Systems Data Manager (GIS Data Manager),43,1.0,0.02%
+Belgium,Geographic Information Systems Data Manager (GIS Data Manager),52,1.0,0.02%
 Belgium,No Full-Time Job,15,1.0,0.02%
 Belgium,No Full-Time Job,33,1.0,0.02%
 Belgium,No Full-Time Job,34,1.0,0.02%
@@ -823,14 +951,22 @@ Belgium,No Full-Time Job,41,1.0,0.02%
 Belgium,No Full-Time Job,49,1.0,0.02%
 Belgium,No Full-Time Job,59,1.0,0.02%
 Belgium,No Full-Time Job,62,1.0,0.02%
-Bulgaria,Clinical Data Manager,40,1.0,0.02%
-Bulgaria,Data Center Manager,46,1.0,0.02%
-Bulgaria,Database Architect,56,1.0,0.02%
-Bulgaria,Database Tester,30,1.0,0.02%
-Belgium,Database Architect,28,1.0,0.02%
-Belgium,Data Collector,31,1.0,0.02%
-Austria,No Full-Time Job,61,1.0,0.02%
-Austria,No Full-Time Job,33,1.0,0.02%
+Belgium,Oracle Database Administrator (Oracle DBA),48,1.0,0.02%
+Bulgaria,Data Coordinator,38,1.0,0.02%
+Bulgaria,Database Modeler,38,1.0,0.02%
+Bulgaria,Database Modeler,41,1.0,0.02%
+Bulgaria,Geographic Information Systems Data Manager (GIS Data Manager),25,1.0,0.02%
+Bulgaria,No Full-Time Job,16,1.0,0.02%
+Bulgaria,No Full-Time Job,17,1.0,0.02%
+Bulgaria,No Full-Time Job,21,1.0,0.02%
+Bulgaria,No Full-Time Job,26,1.0,0.02%
+Belgium,Data Scientist,50,1.0,0.02%
+Belgium,Data Scientist,21,1.0,0.02%
+Bulgaria,No Full-Time Job,29,1.0,0.02%
+Belgium,Data Scientist,20,1.0,0.02%
+Austria,Data Entry Representative,35,1.0,0.02%
+Austria,Database Modeler,29,1.0,0.02%
+Austria,Geographic Information Systems Data Manager (GIS Data Manager),47,1.0,0.02%
 Austria,No Full-Time Job,18,1.0,0.02%
 Austria,No Full-Time Job,19,1.0,0.02%
 Austria,No Full-Time Job,21,1.0,0.02%
@@ -839,8 +975,8 @@ Austria,No Full-Time Job,23,1.0,0.02%
 Austria,No Full-Time Job,24,1.0,0.02%
 Austria,No Full-Time Job,28,1.0,0.02%
 Austria,No Full-Time Job,32,1.0,0.02%
+Austria,No Full-Time Job,33,1.0,0.02%
 Austria,No Full-Time Job,34,1.0,0.02%
-Austria,No Full-Time Job,58,1.0,0.02%
 Austria,No Full-Time Job,37,1.0,0.02%
 Austria,No Full-Time Job,38,1.0,0.02%
 Austria,No Full-Time Job,39,1.0,0.02%
@@ -849,191 +985,101 @@ Austria,No Full-Time Job,41,1.0,0.02%
 Austria,No Full-Time Job,46,1.0,0.02%
 Austria,No Full-Time Job,51,1.0,0.02%
 Austria,No Full-Time Job,52,1.0,0.02%
-Bulgaria,Database Tester,42,1.0,0.02%
-Bulgaria,No Full-Time Job,17,1.0,0.02%
-Czechia,No Full-Time Job,18,1.0,0.02%
-Bulgaria,No Full-Time Job,21,1.0,0.02%
-Croatia,No Full-Time Job,32,1.0,0.02%
-Croatia,No Full-Time Job,37,1.0,0.02%
-Croatia,No Full-Time Job,40,1.0,0.02%
-Croatia,No Full-Time Job,42,1.0,0.02%
-Croatia,No Full-Time Job,45,1.0,0.02%
-Croatia,No Full-Time Job,48,1.0,0.02%
+Austria,No Full-Time Job,58,1.0,0.02%
+Austria,No Full-Time Job,61,1.0,0.02%
+Belgium,Data Coordinator,40,1.0,0.02%
+Belgium,Data Entry Representative,54,1.0,0.02%
+Bulgaria,No Full-Time Job,27,1.0,0.02%
+Bulgaria,No Full-Time Job,33,1.0,0.02%
+Czechia,No Full-Time Job,63,1.0,0.02%
 Croatia,No Full-Time Job,56,1.0,0.02%
-Croatia,No Full-Time Job,60,1.0,0.02%
 Cyprus,No Full-Time Job,30,1.0,0.02%
 Cyprus,No Full-Time Job,39,1.0,0.02%
 Cyprus,No Full-Time Job,50,1.0,0.02%
-Czechia,Data Processing Services Sales Representative,45,1.0,0.02%
-Czechia,Database Architect,26,1.0,0.02%
-Czechia,Database Architect,27,1.0,0.02%
-Czechia,Database Tester,43,1.0,0.02%
-Czechia,Database Tester,49,1.0,0.02%
-Czechia,Naval Tactical Data System--Combat Information Center Officer,46,1.0,0.02%
+Czechia,Data Coordinator,53,1.0,0.02%
+Czechia,Data Entry Machine Operator,41,1.0,0.02%
+Czechia,Data Scientist,38,1.0,0.02%
+Czechia,Data Warehouse Analyst,20,1.0,0.02%
+Czechia,Data Warehouse Analyst,45,1.0,0.02%
+Czechia,Geographic Information Systems Data Manager (GIS Data Manager),62,1.0,0.02%
 Czechia,No Full-Time Job,15,1.0,0.02%
 Czechia,No Full-Time Job,17,1.0,0.02%
-Croatia,No Full-Time Job,31,1.0,0.02%
-Croatia,No Full-Time Job,30,1.0,0.02%
-Croatia,No Full-Time Job,27,1.0,0.02%
-Bulgaria,No Full-Time Job,54,1.0,0.02%
-Bulgaria,No Full-Time Job,26,1.0,0.02%
-Bulgaria,No Full-Time Job,27,1.0,0.02%
-Bulgaria,No Full-Time Job,29,1.0,0.02%
-Bulgaria,No Full-Time Job,33,1.0,0.02%
+Czechia,No Full-Time Job,18,1.0,0.02%
+Czechia,No Full-Time Job,19,1.0,0.02%
+Czechia,No Full-Time Job,27,1.0,0.02%
+Czechia,No Full-Time Job,28,1.0,0.02%
+Czechia,No Full-Time Job,33,1.0,0.02%
+Czechia,No Full-Time Job,34,1.0,0.02%
+Czechia,No Full-Time Job,36,1.0,0.02%
+Czechia,No Full-Time Job,41,1.0,0.02%
+Czechia,No Full-Time Job,46,1.0,0.02%
+Czechia,No Full-Time Job,55,1.0,0.02%
+Czechia,No Full-Time Job,57,1.0,0.02%
+Czechia,No Full-Time Job,58,1.0,0.02%
+Czechia,No Full-Time Job,60,1.0,0.02%
+Czechia,No Full-Time Job,61,1.0,0.02%
+Croatia,No Full-Time Job,60,1.0,0.02%
+Croatia,No Full-Time Job,48,1.0,0.02%
 Bulgaria,No Full-Time Job,35,1.0,0.02%
+Croatia,No Full-Time Job,45,1.0,0.02%
 Bulgaria,No Full-Time Job,38,1.0,0.02%
 Bulgaria,No Full-Time Job,39,1.0,0.02%
 Bulgaria,No Full-Time Job,42,1.0,0.02%
+Bulgaria,No Full-Time Job,54,1.0,0.02%
 Bulgaria,No Full-Time Job,56,1.0,0.02%
-Croatia,No Full-Time Job,25,1.0,0.02%
 Bulgaria,No Full-Time Job,58,1.0,0.02%
 Bulgaria,No Full-Time Job,61,1.0,0.02%
-Bulgaria,Survey Data Technician,39,1.0,0.02%
-Croatia,Database Tester,58,1.0,0.02%
+Croatia,Clinical Data Abstractor,33,1.0,0.02%
+Croatia,Data Coordinator,54,1.0,0.02%
+Croatia,Database Modeler,42,1.0,0.02%
+Croatia,Database Modeler,44,1.0,0.02%
+Croatia,Geographic Information Systems Data Manager (GIS Data Manager),28,1.0,0.02%
+Croatia,Geographic Information Systems Data Manager (GIS Data Manager),44,1.0,0.02%
 Croatia,No Full-Time Job,15,1.0,0.02%
 Croatia,No Full-Time Job,17,1.0,0.02%
 Croatia,No Full-Time Job,18,1.0,0.02%
 Croatia,No Full-Time Job,19,1.0,0.02%
-Germany,Clinical Data Manager,28,1.0,0.02%
-Germany,Data Center Manager,32,1.0,0.02%
-Germany,Data Center Manager,42,1.0,0.02%
-Lithuania,No Full-Time Job,23,1.0,0.02%
-Italy,Field Artillery Automated Tactical Data System Specialist,31,1.0,0.02%
-Italy,Field Artillery Automated Tactical Data System Specialist,43,1.0,0.02%
-Italy,Naval Tactical Data System--Combat Information Center Officer,40,1.0,0.02%
-Italy,No Full-Time Job,60,1.0,0.02%
-Italy,Survey Data Technician,37,1.0,0.02%
-Latvia,Clinical Data Manager,40,1.0,0.02%
-Latvia,No Full-Time Job,14,1.0,0.02%
-Latvia,No Full-Time Job,18,1.0,0.02%
-Latvia,No Full-Time Job,19,1.0,0.02%
-Latvia,No Full-Time Job,20,1.0,0.02%
-Latvia,No Full-Time Job,21,1.0,0.02%
-Latvia,No Full-Time Job,26,1.0,0.02%
-Latvia,No Full-Time Job,28,1.0,0.02%
-Latvia,No Full-Time Job,32,1.0,0.02%
-Latvia,No Full-Time Job,34,1.0,0.02%
-Latvia,No Full-Time Job,41,1.0,0.02%
-Latvia,No Full-Time Job,46,1.0,0.02%
-Lithuania,No Full-Time Job,20,1.0,0.02%
-Lithuania,No Full-Time Job,21,1.0,0.02%
-Italy,Database Tester,58,1.0,0.02%
-Italy,Database Tester,56,1.0,0.02%
-Italy,Database Tester,53,1.0,0.02%
-Italy,Database Architect,49,1.0,0.02%
-Italy,Data Processing Services Sales Representative,53,1.0,0.02%
-Italy,Database Architect,19,1.0,0.02%
-Italy,Database Architect,28,1.0,0.02%
-Italy,Database Architect,29,1.0,0.02%
-Italy,Database Architect,32,1.0,0.02%
-Italy,Database Architect,36,1.0,0.02%
-Italy,Database Architect,40,1.0,0.02%
-Italy,Database Architect,43,1.0,0.02%
-Italy,Database Architect,51,1.0,0.02%
-Italy,Database Tester,47,1.0,0.02%
-Italy,Database Architect,52,1.0,0.02%
-Italy,Database Architect,61,1.0,0.02%
-Italy,Database Tester,21,1.0,0.02%
-Austria,Field Artillery Automated Tactical Data System Specialist,34,1.0,0.02%
-Italy,Database Tester,31,1.0,0.02%
-Italy,Database Tester,32,1.0,0.02%
-Italy,Database Tester,40,1.0,0.02%
-Italy,Database Tester,41,1.0,0.02%
-Lithuania,No Full-Time Job,22,1.0,0.02%
-Lithuania,No Full-Time Job,25,1.0,0.02%
-Italy,Data Entry Clerk,37,1.0,0.02%
-Lithuania,No Full-Time Job,29,1.0,0.02%
-Netherlands,Field Artillery Automated Tactical Data System Specialist,46,1.0,0.02%
-Netherlands,No Full-Time Job,28,1.0,0.02%
-Netherlands,No Full-Time Job,29,1.0,0.02%
-Netherlands,No Full-Time Job,30,1.0,0.02%
-Netherlands,No Full-Time Job,33,1.0,0.02%
-Netherlands,No Full-Time Job,35,1.0,0.02%
-Netherlands,No Full-Time Job,49,1.0,0.02%
-Netherlands,No Full-Time Job,53,1.0,0.02%
-Netherlands,Survey Data Technician,41,1.0,0.02%
-Poland,Data Collector,35,1.0,0.02%
-Poland,Database Architect,19,1.0,0.02%
-Poland,Database Architect,27,1.0,0.02%
-Poland,Database Architect,30,1.0,0.02%
-Poland,Database Architect,40,1.0,0.02%
-Poland,Database Tester,37,1.0,0.02%
-Poland,Database Tester,41,1.0,0.02%
-Poland,Database Tester,42,1.0,0.02%
-Poland,Database Tester,44,1.0,0.02%
-Poland,Field Artillery Automated Tactical Data System Specialist,18,1.0,0.02%
-Netherlands,Field Artillery Automated Tactical Data System Specialist,45,1.0,0.02%
-Netherlands,Database Tester,48,1.0,0.02%
-Netherlands,Database Tester,27,1.0,0.02%
-Lithuania,No Full-Time Job,53,1.0,0.02%
-Lithuania,No Full-Time Job,31,1.0,0.02%
-Lithuania,No Full-Time Job,32,1.0,0.02%
-Lithuania,No Full-Time Job,37,1.0,0.02%
-Lithuania,No Full-Time Job,38,1.0,0.02%
-Lithuania,No Full-Time Job,42,1.0,0.02%
-Lithuania,No Full-Time Job,43,1.0,0.02%
-Lithuania,No Full-Time Job,47,1.0,0.02%
-Lithuania,No Full-Time Job,51,1.0,0.02%
-Lithuania,No Full-Time Job,57,1.0,0.02%
-Netherlands,Database Architect,53,1.0,0.02%
-Luxembourg,No Full-Time Job,15,1.0,0.02%
-Luxembourg,No Full-Time Job,23,1.0,0.02%
-Malta,No Full-Time Job,20,1.0,0.02%
-Malta,No Full-Time Job,35,1.0,0.02%
-Malta,No Full-Time Job,61,1.0,0.02%
-Netherlands,Clinical Data Manager,49,1.0,0.02%
-Netherlands,Data Collector,28,1.0,0.02%
-Netherlands,Data Processing Services Sales Representative,20,1.0,0.02%
-Italy,Data Entry Clerk,53,1.0,0.02%
-Italy,Data Entry Clerk,25,1.0,0.02%
-Germany,Data Processing Services Sales Representative,19,1.0,0.02%
-Greece,No Full-Time Job,59,1.0,0.02%
-Greece,Database Tester,26,1.0,0.02%
-Greece,Database Tester,32,1.0,0.02%
-Greece,No Full-Time Job,16,1.0,0.02%
-Greece,No Full-Time Job,21,1.0,0.02%
-Greece,No Full-Time Job,22,1.0,0.02%
-Greece,No Full-Time Job,23,1.0,0.02%
-Greece,No Full-Time Job,26,1.0,0.02%
-Greece,No Full-Time Job,28,1.0,0.02%
-Greece,No Full-Time Job,34,1.0,0.02%
-Greece,No Full-Time Job,36,1.0,0.02%
-Greece,No Full-Time Job,39,1.0,0.02%
-Greece,No Full-Time Job,43,1.0,0.02%
-Greece,No Full-Time Job,44,1.0,0.02%
-Greece,No Full-Time Job,46,1.0,0.02%
-Greece,No Full-Time Job,47,1.0,0.02%
-Greece,No Full-Time Job,50,1.0,0.02%
-Greece,No Full-Time Job,52,1.0,0.02%
-Greece,No Full-Time Job,53,1.0,0.02%
-Greece,No Full-Time Job,55,1.0,0.02%
-Greece,Database Architect,41,1.0,0.02%
-Greece,Data Entry Clerk,39,1.0,0.02%
-Germany,Survey Data Technician,43,1.0,0.02%
-Germany,Database Architect,43,1.0,0.02%
-Germany,Data Processing Services Sales Representative,35,1.0,0.02%
-Germany,Data Processing Services Sales Representative,41,1.0,0.02%
-Germany,Data Processing Services Sales Representative,45,1.0,0.02%
-Germany,Database Architect,26,1.0,0.02%
-Germany,Database Architect,28,1.0,0.02%
-Germany,Database Architect,30,1.0,0.02%
-Germany,Database Architect,31,1.0,0.02%
-Germany,Database Architect,40,1.0,0.02%
-Germany,Database Architect,47,1.0,0.02%
-Germany,Naval Tactical Data System--Combat Information Center Officer,49,1.0,0.02%
-Germany,Database Tester,26,1.0,0.02%
-Germany,Database Tester,35,1.0,0.02%
-Germany,Database Tester,42,1.0,0.02%
-Germany,Database Tester,43,1.0,0.02%
-Germany,Database Tester,44,1.0,0.02%
-Germany,Database Tester,45,1.0,0.02%
-Germany,Database Tester,48,1.0,0.02%
-Germany,Field Artillery Automated Tactical Data System Specialist,45,1.0,0.02%
-Greece,No Full-Time Job,56,1.0,0.02%
-Greece,No Full-Time Job,61,1.0,0.02%
-Italy,Data Collector,41,1.0,0.02%
-Greece,No Full-Time Job,65,1.0,0.02%
-Ireland,No Full-Time Job,17,1.0,0.02%
+Croatia,No Full-Time Job,25,1.0,0.02%
+Croatia,No Full-Time Job,27,1.0,0.02%
+Croatia,No Full-Time Job,30,1.0,0.02%
+Croatia,No Full-Time Job,31,1.0,0.02%
+Croatia,No Full-Time Job,32,1.0,0.02%
+Croatia,No Full-Time Job,37,1.0,0.02%
+Croatia,No Full-Time Job,40,1.0,0.02%
+Croatia,No Full-Time Job,42,1.0,0.02%
+Germany,Data Coordinator,30,1.0,0.02%
+Germany,Data Coordinator,31,1.0,0.02%
+Germany,Data Coordinator,33,1.0,0.02%
+Italy,Data Entry Machine Operator,63,1.0,0.02%
+Austria,Data Coordinator,46,1.0,0.02%
+Italy,Data Entry Representative,42,1.0,0.02%
+Italy,Data Scientist,18,1.0,0.02%
+Italy,Data Scientist,27,1.0,0.02%
+Italy,Data Scientist,29,1.0,0.02%
+Italy,Data Scientist,30,1.0,0.02%
+Italy,Data Scientist,32,1.0,0.02%
+Italy,Data Scientist,33,1.0,0.02%
+Italy,Data Scientist,38,1.0,0.02%
+Italy,Data Scientist,39,1.0,0.02%
+Italy,Data Scientist,45,1.0,0.02%
+Italy,Data Scientist,47,1.0,0.02%
+Italy,Data Warehouse Analyst,26,1.0,0.02%
+Italy,Data Warehouse Analyst,34,1.0,0.02%
+Italy,Data Warehouse Analyst,41,1.0,0.02%
+Italy,Data Warehouse Analyst,42,1.0,0.02%
+Italy,Data Warehouse Analyst,48,1.0,0.02%
+Italy,Data Warehouse Analyst,51,1.0,0.02%
+Italy,Database Modeler,42,1.0,0.02%
+Italy,Database Modeler,44,1.0,0.02%
+Italy,Database Modeler,47,1.0,0.02%
+Italy,Geographic Information Systems Data Manager (GIS Data Manager),20,1.0,0.02%
+Italy,Geographic Information Systems Data Manager (GIS Data Manager),25,1.0,0.02%
+Italy,Geographic Information Systems Data Manager (GIS Data Manager),36,1.0,0.02%
+Italy,Geographic Information Systems Data Manager (GIS Data Manager),47,1.0,0.02%
+Italy,Data Entry Representative,34,1.0,0.02%
+Italy,Data Coordinator,57,1.0,0.02%
+Italy,Geographic Information Systems Data Manager (GIS Data Manager),59,1.0,0.02%
+Italy,Data Coordinator,48,1.0,0.02%
 Ireland,No Full-Time Job,22,1.0,0.02%
 Ireland,No Full-Time Job,25,1.0,0.02%
 Ireland,No Full-Time Job,26,1.0,0.02%
@@ -1051,21 +1097,146 @@ Ireland,No Full-Time Job,49,1.0,0.02%
 Ireland,No Full-Time Job,52,1.0,0.02%
 Ireland,No Full-Time Job,60,1.0,0.02%
 Ireland,No Full-Time Job,63,1.0,0.02%
-Italy,Data Collector,29,1.0,0.02%
-Ireland,Database Tester,35,1.0,0.02%
-Ireland,Database Tester,27,1.0,0.02%
-Ireland,Database Architect,46,1.0,0.02%
-Hungary,No Full-Time Job,27,1.0,0.02%
-Hungary,Data Processing Services Sales Representative,38,1.0,0.02%
-Hungary,Data Processing Services Sales Representative,44,1.0,0.02%
-Hungary,Data Processing Services Sales Representative,52,1.0,0.02%
-Hungary,Database Tester,44,1.0,0.02%
-Hungary,Naval Tactical Data System--Combat Information Center Officer,40,1.0,0.02%
+Ireland,Oracle Database Administrator (Oracle DBA),29,1.0,0.02%
+Italy,Clinical Data Abstractor,49,1.0,0.02%
+Italy,Data Coordinator,24,1.0,0.02%
+Italy,Data Coordinator,34,1.0,0.02%
+Italy,Data Coordinator,35,1.0,0.02%
+Italy,Data Coordinator,40,1.0,0.02%
+Italy,Data Coordinator,42,1.0,0.02%
+Italy,Data Coordinator,45,1.0,0.02%
+Italy,Geographic Information Systems Data Manager (GIS Data Manager),52,1.0,0.02%
+Italy,No Full-Time Job,60,1.0,0.02%
+Germany,Data Coordinator,44,1.0,0.02%
+Lithuania,No Full-Time Job,47,1.0,0.02%
+Lithuania,No Full-Time Job,53,1.0,0.02%
+Lithuania,No Full-Time Job,57,1.0,0.02%
+Lithuania,Oracle Database Administrator (Oracle DBA),24,1.0,0.02%
+Luxembourg,No Full-Time Job,15,1.0,0.02%
+Luxembourg,No Full-Time Job,23,1.0,0.02%
+Malta,Data Scientist,40,1.0,0.02%
+Malta,No Full-Time Job,20,1.0,0.02%
+Malta,No Full-Time Job,35,1.0,0.02%
+Malta,No Full-Time Job,61,1.0,0.02%
+Netherlands,Data Coordinator,32,1.0,0.02%
+Netherlands,Data Scientist,22,1.0,0.02%
+Netherlands,Data Scientist,32,1.0,0.02%
+Netherlands,Data Scientist,51,1.0,0.02%
+Netherlands,Data Warehouse Analyst,40,1.0,0.02%
+Netherlands,Data Warehouse Analyst,45,1.0,0.02%
+Netherlands,Data Warehouse Analyst,47,1.0,0.02%
+Netherlands,Database Modeler,28,1.0,0.02%
+Netherlands,Database Modeler,43,1.0,0.02%
+Netherlands,Database Modeler,52,1.0,0.02%
+Netherlands,Geographic Information Systems Data Manager (GIS Data Manager),26,1.0,0.02%
+Netherlands,No Full-Time Job,28,1.0,0.02%
+Netherlands,No Full-Time Job,29,1.0,0.02%
+Netherlands,No Full-Time Job,30,1.0,0.02%
+Netherlands,No Full-Time Job,33,1.0,0.02%
+Netherlands,No Full-Time Job,35,1.0,0.02%
+Lithuania,No Full-Time Job,51,1.0,0.02%
+Lithuania,No Full-Time Job,43,1.0,0.02%
+Italy,Oracle Database Administrator (Oracle DBA),22,1.0,0.02%
+Lithuania,No Full-Time Job,42,1.0,0.02%
+Italy,Oracle Database Administrator (Oracle DBA),34,1.0,0.02%
+Italy,Oracle Database Administrator (Oracle DBA),41,1.0,0.02%
+Italy,Oracle Database Administrator (Oracle DBA),42,1.0,0.02%
+Latvia,Data Coordinator,39,1.0,0.02%
+Latvia,No Full-Time Job,14,1.0,0.02%
+Latvia,No Full-Time Job,18,1.0,0.02%
+Latvia,No Full-Time Job,19,1.0,0.02%
+Latvia,No Full-Time Job,20,1.0,0.02%
+Latvia,No Full-Time Job,21,1.0,0.02%
+Latvia,No Full-Time Job,26,1.0,0.02%
+Latvia,No Full-Time Job,28,1.0,0.02%
+Latvia,No Full-Time Job,32,1.0,0.02%
+Latvia,No Full-Time Job,34,1.0,0.02%
+Latvia,No Full-Time Job,41,1.0,0.02%
+Latvia,No Full-Time Job,46,1.0,0.02%
+Lithuania,No Full-Time Job,20,1.0,0.02%
+Lithuania,No Full-Time Job,21,1.0,0.02%
+Lithuania,No Full-Time Job,22,1.0,0.02%
+Lithuania,No Full-Time Job,23,1.0,0.02%
+Lithuania,No Full-Time Job,25,1.0,0.02%
+Lithuania,No Full-Time Job,29,1.0,0.02%
+Lithuania,No Full-Time Job,31,1.0,0.02%
+Lithuania,No Full-Time Job,32,1.0,0.02%
+Lithuania,No Full-Time Job,37,1.0,0.02%
+Lithuania,No Full-Time Job,38,1.0,0.02%
+Ireland,No Full-Time Job,17,1.0,0.02%
+Ireland,Geographic Information Systems Data Manager (GIS Data Manager),40,1.0,0.02%
+Ireland,Geographic Information Systems Data Manager (GIS Data Manager),26,1.0,0.02%
+Germany,Database Modeler,46,1.0,0.02%
+Germany,Database Modeler,50,1.0,0.02%
+Germany,Database Modeler,51,1.0,0.02%
+Germany,Geographic Information Systems Data Manager (GIS Data Manager),29,1.0,0.02%
+Germany,Geographic Information Systems Data Manager (GIS Data Manager),30,1.0,0.02%
+Germany,Geographic Information Systems Data Manager (GIS Data Manager),37,1.0,0.02%
+Germany,Geographic Information Systems Data Manager (GIS Data Manager),50,1.0,0.02%
+Germany,Geographic Information Systems Data Manager (GIS Data Manager),59,1.0,0.02%
+Germany,Geographic Information Systems Data Manager (GIS Data Manager),63,1.0,0.02%
+Germany,Oracle Database Administrator (Oracle DBA),21,1.0,0.02%
+Germany,Oracle Database Administrator (Oracle DBA),23,1.0,0.02%
+Germany,Oracle Database Administrator (Oracle DBA),32,1.0,0.02%
+Germany,Oracle Database Administrator (Oracle DBA),37,1.0,0.02%
+Germany,Oracle Database Administrator (Oracle DBA),39,1.0,0.02%
+Germany,Oracle Database Administrator (Oracle DBA),44,1.0,0.02%
+Germany,Oracle Database Administrator (Oracle DBA),45,1.0,0.02%
+Germany,Oracle Database Administrator (Oracle DBA),46,1.0,0.02%
+Germany,Oracle Database Administrator (Oracle DBA),47,1.0,0.02%
+Germany,Oracle Database Administrator (Oracle DBA),50,1.0,0.02%
+Germany,Oracle Database Administrator (Oracle DBA),61,1.0,0.02%
+Germany,Oracle Database Administrator (Oracle DBA),63,1.0,0.02%
+Greece,Clinical Data Abstractor,45,1.0,0.02%
+Greece,Clinical Data Abstractor,47,1.0,0.02%
+Greece,Data Coordinator,46,1.0,0.02%
+Greece,Data Scientist,39,1.0,0.02%
+Greece,Data Scientist,48,1.0,0.02%
+Germany,Database Modeler,47,1.0,0.02%
+Germany,Database Modeler,45,1.0,0.02%
+Ireland,Database Modeler,44,1.0,0.02%
+Germany,Database Modeler,42,1.0,0.02%
+Germany,Data Coordinator,49,1.0,0.02%
+Germany,Data Coordinator,52,1.0,0.02%
+Germany,Data Coordinator,60,1.0,0.02%
+Germany,Data Coordinator,62,1.0,0.02%
+Germany,Data Entry Machine Operator,23,1.0,0.02%
+Germany,Data Entry Representative,25,1.0,0.02%
+Germany,Data Entry Representative,28,1.0,0.02%
+Germany,Data Scientist,35,1.0,0.02%
+Germany,Data Scientist,44,1.0,0.02%
+Germany,Data Scientist,48,1.0,0.02%
+Germany,Data Scientist,49,1.0,0.02%
+Germany,Data Scientist,50,1.0,0.02%
+Germany,Data Scientist,51,1.0,0.02%
+Germany,Data Warehouse Analyst,20,1.0,0.02%
+Germany,Data Warehouse Analyst,31,1.0,0.02%
+Germany,Data Warehouse Analyst,43,1.0,0.02%
+Germany,Data Warehouse Analyst,45,1.0,0.02%
+Germany,Data Warehouse Analyst,46,1.0,0.02%
+Germany,Data Warehouse Analyst,48,1.0,0.02%
+Germany,Data Warehouse Analyst,57,1.0,0.02%
+Germany,Database Modeler,24,1.0,0.02%
+Germany,Database Modeler,33,1.0,0.02%
+Germany,Database Modeler,34,1.0,0.02%
+Germany,Database Modeler,35,1.0,0.02%
+Germany,Database Modeler,41,1.0,0.02%
+Greece,Data Warehouse Analyst,35,1.0,0.02%
+Greece,Data Warehouse Analyst,41,1.0,0.02%
+Greece,Database Modeler,23,1.0,0.02%
+Greece,Database Modeler,32,1.0,0.02%
+Hungary,Data Warehouse Analyst,25,1.0,0.02%
+Hungary,Data Warehouse Analyst,33,1.0,0.02%
+Hungary,Database Modeler,42,1.0,0.02%
+Hungary,Geographic Information Systems Data Manager (GIS Data Manager),31,1.0,0.02%
+Hungary,Geographic Information Systems Data Manager (GIS Data Manager),40,1.0,0.02%
+Hungary,Geographic Information Systems Data Manager (GIS Data Manager),48,1.0,0.02%
+Hungary,Geographic Information Systems Data Manager (GIS Data Manager),52,1.0,0.02%
 Hungary,No Full-Time Job,17,1.0,0.02%
 Hungary,No Full-Time Job,19,1.0,0.02%
 Hungary,No Full-Time Job,21,1.0,0.02%
+Hungary,No Full-Time Job,27,1.0,0.02%
 Hungary,No Full-Time Job,28,1.0,0.02%
-Hungary,No Full-Time Job,63,1.0,0.02%
 Hungary,No Full-Time Job,30,1.0,0.02%
 Hungary,No Full-Time Job,33,1.0,0.02%
 Hungary,No Full-Time Job,45,1.0,0.02%
@@ -1074,4 +1245,37 @@ Hungary,No Full-Time Job,47,1.0,0.02%
 Hungary,No Full-Time Job,51,1.0,0.02%
 Hungary,No Full-Time Job,53,1.0,0.02%
 Hungary,No Full-Time Job,61,1.0,0.02%
-United Kingdom,Survey Data Technician,38,1.0,0.02%
+Hungary,No Full-Time Job,63,1.0,0.02%
+Hungary,Oracle Database Administrator (Oracle DBA),47,1.0,0.02%
+Ireland,Data Scientist,38,1.0,0.02%
+Ireland,Data Warehouse Analyst,29,1.0,0.02%
+Ireland,Database Modeler,14,1.0,0.02%
+Hungary,Data Entry Machine Operator,49,1.0,0.02%
+Hungary,Data Coordinator,59,1.0,0.02%
+Hungary,Data Coordinator,48,1.0,0.02%
+Greece,No Full-Time Job,44,1.0,0.02%
+Greece,Geographic Information Systems Data Manager (GIS Data Manager),23,1.0,0.02%
+Greece,No Full-Time Job,16,1.0,0.02%
+Greece,No Full-Time Job,21,1.0,0.02%
+Greece,No Full-Time Job,22,1.0,0.02%
+Greece,No Full-Time Job,23,1.0,0.02%
+Greece,No Full-Time Job,26,1.0,0.02%
+Greece,No Full-Time Job,28,1.0,0.02%
+Greece,No Full-Time Job,34,1.0,0.02%
+Greece,No Full-Time Job,36,1.0,0.02%
+Greece,No Full-Time Job,39,1.0,0.02%
+Greece,No Full-Time Job,43,1.0,0.02%
+Greece,No Full-Time Job,46,1.0,0.02%
+Hungary,Data Coordinator,26,1.0,0.02%
+Greece,No Full-Time Job,47,1.0,0.02%
+Greece,No Full-Time Job,50,1.0,0.02%
+Greece,No Full-Time Job,52,1.0,0.02%
+Greece,No Full-Time Job,53,1.0,0.02%
+Greece,No Full-Time Job,55,1.0,0.02%
+Greece,No Full-Time Job,56,1.0,0.02%
+Greece,No Full-Time Job,59,1.0,0.02%
+Greece,No Full-Time Job,61,1.0,0.02%
+Greece,No Full-Time Job,65,1.0,0.02%
+Greece,Oracle Database Administrator (Oracle DBA),41,1.0,0.02%
+Greece,Oracle Database Administrator (Oracle DBA),49,1.0,0.02%
+Italy,Data Entry Representative,41,1.0,0.02%

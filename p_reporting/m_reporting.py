@@ -116,7 +116,7 @@ def api_skill_json(list_of_jobs, text):
         job_info = response.json()
         json.append(job_info)
 
-        print(f'\t{text.title()} category jobs examinated for skills: {i}/{len_jobs}', end='\r')
+        print(f'\t{text.title()} education jobs examinated for skills: {i}/{len_jobs}', end='\r')
     print()
     return json
 
@@ -161,8 +161,6 @@ def create_bonus2_df_and_csv(full_raw_df, options):
     'makes a df and a csv file with all the info'
     print('\tStarting Process for Bonus 2')
     print('\tCreating Bonus 2 table')
-
-    # correr todo una vez y luego comentar todo este bloque.
 
     dictionary = {option: extract_top_skills(full_raw_df, option) for option in options}
 

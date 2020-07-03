@@ -167,7 +167,7 @@ if __name__ == '__main__':
 
         #Selecionar número de Lineas a mostrar
         max_results = table_1.shape[0]
-        results_to_show = st.number_input('Results to display', min_value=1, max_value=max_results,value=10)
+        results_to_show = st.number_input('Results to display', min_value=1, max_value=max_results,value=5)
 
         # Mostrar tabla
         df = table_1.head(results_to_show)
