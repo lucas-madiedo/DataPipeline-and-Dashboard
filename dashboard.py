@@ -1,6 +1,16 @@
 import streamlit as st
 import pandas as pd
+from email.message import EmailMessage
+import configparser
+import smtplib
 
+#PASSWORDS CONFIGURATION
+cfg = configparser.RawConfigParser()
+cfg.read('/home/lmadiedo/Documentos/config_files.ini')
+mail_config = cfg['mail_info']
+
+MAIL_ADRRES = mail_config['adress']
+MAIL_PASS = mail_config['password']
 
 
 #HEADER
@@ -85,8 +95,45 @@ def challenge1(df):
     recalculated_df = recalculate_colums(filtered_3_job_country_age)
     return recalculated_df
 
+def mail_sending(df):
+    st.subheader('Send me this info!!')
+    mail_adress = st.text_input('', 'Write your email here')
+
+    msg = EmailMessage()
+    msg['Subject'] = 'Here is the data'
+    msg['From'] = MAIL_ADRRES
+    msg['To'] = mail_adress
+    msg.set_content('Please find attached your data selection')
+
+    info_to_send =  st.radio('Send me all data frame',('All Info','Just Selected Data'))
+    if info_to_send == 'All Info':
+        with open(challenge_1_path, 'rb') as file:
+            file_data = file.read()
+            file_name = 'Full_dataframe.csv'
+        msg.add_attachment(file_data, maintype='csv', subtype='csv', filename=file_name)
+
+    else:
+
+        export_processed_csv = f'data/sent/mail_info.csv'
+        df.to_csv(export_processed_csv, index=False)
+
+
+        with open(export_processed_csv, 'rb') as file:
+            file_data = file.read()
+            file_name = 'selected_dataframe.csv'
+        msg.add_attachment(file_data, maintype='csv', subtype='csv', filename=file_name)
+
+
+    if st.button('SEND!'):
+        with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
+            smtp.login(MAIL_ADRRES, MAIL_PASS)
+            smtp.send_message(msg)
+        st.success('info Sent!!')
+
+
 
 # BONUS 1    ###########################################################################################################
+
 bonus_1_path = 'data/results/result_bonus1_procons_args.csv'
 bonus_1_df = pd.read_csv(bonus_1_path)
 
@@ -123,40 +170,28 @@ if __name__ == '__main__':
         results_to_show = st.number_input('Results to display', min_value=1, max_value=max_results,value=10)
 
         # Mostrar tabla
-        st.table(table_1.head(results_to_show))
+        df = table_1.head(results_to_show)
+        st.table(df)
 
         st.write('')
         st.write('')
         st.write('-------')
 
-        st.subheader('I want this Info!!')
-        mail_adress = st.text_input('', 'Write your email here')
-        st.write(' ')
-        st.write()
-        st.write()
-
-        if st.button('Send me all data frame'):
-            st.success('Todo el df enviado"!')
-
-            #st.dataframe(challenge_1_df)
-
-        if st.button('send me just my selection'):
-            st.success('Te hemos enviado tu selección!')
-            #st.dataframe(table_1)
+        mail_sending(table_1)
 
 
     elif challenge == 'Bonus 1':
-        st.title('BONUS 1 TABLE')
-        st.table(bonus_1_df)
-        st.write()
-        st.write('-------')
-        st.write()
-        st.subheader('PRO ARGUMENTS TABLE')
-        st.table(bonus_1_pro_args)
-        st.write()
-        st.write()
-        st.subheader('AGAINST ARGUMENTS TABLE')
-        st.table(bonus_1_against_args)
+            st.title('BONUS 1 TABLE')
+            st.table(bonus_1_df)
+            st.write()
+            st.write('-------')
+            st.write()
+            st.subheader('PRO ARGUMENTS TABLE')
+            st.table(bonus_1_pro_args)
+            st.write()
+            st.write()
+            st.subheader('AGAINST ARGUMENTS TABLE')
+            st.table(bonus_1_against_args)
 
     else:
         st.title('BONUS 2 TABLE')

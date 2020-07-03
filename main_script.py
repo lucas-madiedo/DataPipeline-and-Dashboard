@@ -2,6 +2,7 @@ import argparse
 from p_acquisition import m_acquisition
 from p_wrangling import m_wrangling
 from p_reporting import m_reporting
+import os
 
 
 API_URL = 'http://api.dataatwork.org/v1/jobs/'
@@ -35,7 +36,7 @@ def main(args):
     m_reporting.create_bonus2_df_and_csv(raw_df,OPTIONS)
 
     print('\nPipeline is complete__________\n\n')
-
+    os.system('streamlit run dashboard.py')
 
 if __name__ == "__main__":
     arguments = argument_parser()

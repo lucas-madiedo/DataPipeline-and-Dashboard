@@ -1,3 +1,66 @@
+
+# **MODULE 1**      
+## **FINAL PROYECT:** PIPELINES AND ANALYSIS ON A DATA PROJECT
+
+**Lucas Madiedo**  
+IronHack: Data Analysis Bootcamp
+
+----
+-----
+## Overview
+## Goals
+## Dataset
+
+## Process
+### - Technology stack
+libraries
+### - Folder structure
+```
+└── project
+    ├── __trash__
+    ├── .gitignore
+    ├── .env
+    ├── requeriments.txt
+    ├── README.md
+    ├── main_script.py
+    ├── notebooks
+    │   ├── notebook1.ipynb
+    │   └── notebook2.ipynb
+    ├── package1
+    │   ├── module1.py
+    │   └── module2.py
+    └── data
+        ├── raw
+        ├── processed
+        └── results
+```
+### - Steps
+
+
+## Results
+## Next steps
+
+
+
+
+
+
+ 
+ 
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+
 # Data Project README file
 
 The README file describes the essence of the project playing the most important role. Most visitors will simply scroll down about twice on the README and leave if they are not interested. So, the README file should provide the reason **why** to checkout your project!!!). 
